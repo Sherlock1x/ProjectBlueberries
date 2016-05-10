@@ -7,7 +7,7 @@ but whose existence does have measurable "Store of unit value"(souv) effects. Qu
 
 Embed Code  "Kryptheum PyramidChainContainer" Beta Virtual Machine"
 
-#"Universe Byte Particle", "Matrix Array Containers" World Vision Virtual Bank...(1 Container= 100000 Bytes; 0 to 100; 
+#"Universe Byte Particle", "Matrix Array Containers" World Vision Virtual Bank...(1 Container= 100000 Bytes; 0 to 100 Index #10x10Shape; 
 #'_PY.RAMIDCHAIN.CONTAINERS_')
 
 The volume of a pyramid (also any cone) is \scriptstyle{V=} \tfrac{1}{3}\scriptstyle{bh} "V=1/3bh", where b is the area of the base and h the height from the base to the apex. This works for any polygon, regular or non-regular, and any location of the apex, provided that h is measured as the perpendicular distance from the plane which contains the base. In 499 AD Aryabhata, a mathematician-astronomer from the classical age of Indian mathematics and Indian astronomy, used this method in the Aryabhatiya (section 2.6).
