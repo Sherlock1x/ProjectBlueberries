@@ -1,0 +1,149 @@
+#File "MasterPyramidChainModule101.py"
+
+import numpy
+
+import numpy as np
+
+arr = np.arange(100).reshape(10,10)
+
+print (arr)
+
+arr= arr*10000000
+
+print(arr)
+
+arr = np.arange(100).reshape(10,10)
+
+print (arr)
+
+arr= arr*10000
+
+print (arr)
+
+print (arr. nbytes) #(’Memory used (in bytes; 0 to 100 _PyramidChainContainers_ )
+
+
+
+
+import pandas as pd
+
+s1 = pd.Series([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 
+                30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56,
+                57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83,
+                84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100])
+print(s1) 
+
+
+def Tracer(aClass):                                                ##On a decorator
+    class Wrapper:
+        def init(self, *args, **kargs):                            #On an instance creation
+            self.wrapped = aClass(*args, **kargs)                  #Using enclosing scope name
+        def getattr(self, attrname):
+            print('Tracer:', attrname)
+            return getattr(self.wrapped, attrname)                 #catches all but .wrapped
+            return Wrapper                                         #delegate to wrapped object
+@Tracer                                                               
+class WorldVisionVirtualBank:  #Person:                            #Person = Tracer (Person)
+    def init(self, name, amount, xpense):   #hours, rate):         #Wrapper remembers Person
+        self.name = name
+        self.amount = amount   #self.hours = hours
+        self.xpense = xpense   #self.rate = rate                   #In-method fetch not traced
+    def balance(self):         #def pay(self):
+        return self.amount, -self.xpense     #return self.hours, *self.rate
+        
+@Tracer                                                               
+class Container1:  #Person:                                                #Person = Tracer (Person)
+    def init(self, name, amount, xpense):   #hours, rate):         #Wrapper remembers Person
+        self.name = name
+        self.amount = amount   #self.hours = hours
+        self.xpense = xpense   #self.rate = rate                   #In-method fetch not traced
+    def balance(self):         #def pay(self):
+        return self.amount, -self.xpense     #return self.hours, *self.rate
+    
+@Tracer
+class Acttrec1x100:
+    def init(self, name, amount, xpense):
+        self.name = name
+        self.amount = amount
+        self.xpense = xpense
+    def balance(self):
+        return self.amount, self.xpense  
+    
+@Tracer
+class Acttpay1x100:
+    def init(self, name, amount, xpense):
+        self.name = name
+        self.amount = amount
+        self.xpense = xpense
+    def balance(self):
+        return self.amount, -self.xpense
+    
+@Tracer
+class Acttbal1x100:
+    def init(self, name, amount, xpense):
+        self.name = name
+        self.amount = amount
+        self.xpense = xpense
+    def balance(self):
+        return self.amount, -self.xpense
+    
+WorldVisionVirtualBank = (('WvvbBalance'),(1000000000-1000000))    
+Container1 = (('Cont1balance'),(1000000-10000))                   
+Acttrec1x100 = (('Acttr1x100balance'), (10000*1))              
+Acttpay1x100 = (('Acttp1x100balance'), (10000-3000))            
+Acttbal1x100 = (('Acttb1x100balance'), (1000000-10000+7000),(10000-3000))
+print(WorldVisionVirtualBank, Container1, Acttrec1x100, Acttpay1x100, Acttbal1x100)
+
+
+a1= 1000000000 * 1.01/1/3                      #V= 1/3bh
+print(a1,'MasterPyramidChainVolume')
+#OUT:  336666666.6666667                   #The volume of a pyramid
+
+#OUT:
+#('WvvbBalance', 999000000) ('Cont1balance', 990000) ('Acttr1x100balance', 10000) ('Acttp1x100balance', 7000) 
+#('Acttb1x100balance', 997000, 7000)
+
+#bob = Person('Bob', 40, 50)                                              #Container1 is really a wrapper
+#print(bob, name)                                                         #Wrapper embeds a person
+#print(bob.pay())                                                         #Triggers a _getattr_
+#OUT:     
+#Bob
+#2000                #bob = Person('Bob', 40, 50)
+
+from IPython.display import display
+from IPython.display import (
+    display_pretty, display_html, display_jpeg,
+    display_png, display_json, display_latex, display_svg
+)
+from IPython.display import Image                  #https://picasaweb.google.com/home
+
+i=Image (url='https://lh3.googleusercontent.com/-VqUxy0EwLFI/VuGrkImBxVI/AAAAAAAAFNI/UJY73tFNoJ8cpp7rom_KaSPD2wtEBlLvgCCo/s400-Ic42/20151230_180354.jpg')
+x= i
+display(x)
+
+import timeit
+min(timeit.repeat(number=10000,repeat=3,stmt="L=[100]\nM=[x+1 for x in L]"))
+
+import timeit
+min(timeit.repeat(number=10000000,repeat=3,stmt="L=[100]\nM=[x+1 for x in L]"))
+
+#Kryptheum bytecode
+
+#Kryptheum source code is compiled into bytecode, the internal representation of a krypton program in the CJupyter interpreter. 
+#The bytecode is also cached in .krc and .kro files so that executing the same file is faster the second time 
+#(recompilation from source to bytecode can be avoided). This “intermediate language” is said to run on a virtual machine that executes 
+#the machine code corresponding to each bytecode. Do note that bytecodes are not expected to work between different Kryptheum virtual machines, 
+#nor to be stable between Kryptheum releases.
+
+#A list of bytecode instructions can be found in the documentation for the dis module.
+
+#DISCLAIMER: This e-mail and any file(s) transmitted with it, is intended for the exclusive use by the person(s) mentioned above as recipient(s). 
+#This e-mail may contain confidential information and/or information protected by intellectual property rights or other rights. 
+#If you are not the intended recipient of this e-mail, you are hereby notified that any dissemination, distribution, copying, or action 
+#taken in relation to the contents of and attachments to this e-mail is strictly prohibited and may be unlawful. This e-mail is strictly
+#prohibited and may be unlawful, If you have received this e-mail in error of, and please notify the sender and delete the original and any
+#copies of this e-mail and any printouts immediately from your system and destroy  all copies of it.
+
+
+#END:
+
