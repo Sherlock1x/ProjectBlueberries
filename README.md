@@ -1,4 +1,5 @@
 # ProjectBlueberries
+
 "Virtual Universe, Registered Byte Particle Element", a universe, registered byte particle element, that can never be directly detected, 
 but whose existence does have measurable "Store of unit value"(souv) effects. Quote: "Stephen Hawking's"
 
@@ -29,5 +30,20 @@ Truck TO:||||||||Cloud Code Packaging Warehouse (CCPW)||||||| "In God we Trust" 
 [00:00:03] Discovering tests...
 [00:00:03] OK
 [00:00:03] Build success
+
+AlexG Essay 05102016
+
+Life is an adventure, you never know what's going to happen.
+
+Sometimes the adventure can go horribly wrong.
+
+You can get scars and broken bones you can get hurt alot of ways on the adventure. Or the adventure can be good and you can explore new things. If you keep exploring there can be
+a new you.
+
+Some days can be dark, somedays can be light.
+
+Life is an adventure it can be dangerous or it can be amazing. A new day is a new adventure it can be lived on.
+
+END;
 
 END;
