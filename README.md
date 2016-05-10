@@ -1,11 +1,11 @@
 # ProjectBlueberries
 
-"Byte Particles Elements"  (BPE)
+"Byte Particles Elements"  (BPE) Virtual Machine
 
 "Virtual Universe, Registered Byte Particle Element", a universe, registered byte particle element, that can never be directly detected, 
 but whose existence does have measurable "Store of unit value"(souv) effects. Quote: "Stephen Hawking's"
 
-Embed Code Listed Below "Kryptheum PyramidChainContainer" Beta Virtual Machine"
+Embed Code  "Kryptheum PyramidChainContainer" Beta Virtual Machine"
 
 #"Universe Byte Particle", "Matrix Array Containers" World Vision Virtual Bank...(1 Container= 100000 Bytes; 0 to 100; 
 #'_PY.RAMIDCHAIN.CONTAINERS_')
