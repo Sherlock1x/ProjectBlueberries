@@ -22,4 +22,12 @@ The formula can also be derived exactly without calculus for pyramids with recta
 Next, expand the cube uniformly in three directions by unequal amounts so that the resulting rectangular solid edges are a, b and c, with solid volume abc. Each of the 6 pyramids within are likewise expanded. And—each pyramid has the same volume abc/6. Since pairs of pyramids have heights a/2, b/2 and c/2 we see that pyramid volume = height * base area / 3 again.
 
 Truck TO:||||||||Cloud Code Packaging Warehouse (CCPW)||||||| "In God we Trust" "a meeting of the minds" Pier to Pier, TO:Client, Clients.|||||||||||
+
+[00:00:00] Build started
+[00:00:00] git clone -q --branch=master https://github.com/Sherlock1x/ProjectBlueberries.git C:\projects\projectblueberries
+[00:00:02] git checkout -qf e264c7cf838d511855affcc5bd5f64856201030f
+[00:00:03] Discovering tests...
+[00:00:03] OK
+[00:00:03] Build success
+
 END;
