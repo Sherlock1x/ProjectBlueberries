@@ -40,7 +40,7 @@ Truck TO:||||||||Cloud Code Packaging Warehouse (CCPW)||||||| "In God we Trust" 
 [00:00:03] Build success
 
 print (arr. nbytes) #(’Of Memory Creation used (in bytes; 0 to 100 _PyramidChainContainers_ ) Memory Creation Rate(MCR) = ENERGY times                     #TIME
-                    #(ET) = 0.114880 KWH/360sec *1= 0.000319111KWS Time Demension of 3DMatrix Array Byteparticles.(xyt)
+                    #(ET) = 0.114880 KWH/360sec *1= 0.000319111KWS Time Demension of 3DMatrix Array Byteparticles.(xyt)E
                     #E= 0.000319111KWSec
                     
 a1= 1000000000 * 1.01/1/3                                         #V= 1/3bh
@@ -48,16 +48,34 @@ print(a1,'MasterPyramidChainVolume')
 
 #OUT:  336666666.6666667 MasterPyrmidChainVolume                   #The volume of a pyramid
 
+#Kilowatt hour     https://en.wikipedia.org/wiki/Kilowatt_hour
+
+#The kilowatt hour (symbol kWh, kW·h, or kW h) is a derived unit of energy equal to 3.6 megajoules.[1][2]
+#If the energy is being transmitted or used at a constant rate (power) over a period of time, the total energy in
+#kilowatt-hours is the product of the power in kilowatts and the time in hours. 
+#The kilowatt-hour is commonly used as a billing unit for energy delivered to consumers by electric utilities.
+
+
 #Memory Creation Rate(MCR)                                         #Time Demension of 3DMatrix Array Byteparticles.(xyt)
+#400byteparticles of memory creation= [1gigabyte/1000000000byteparticles 3Dmatrix array (xyt)E]
+
 
 KWS= 0.000319111 * Q1
 print(KWS, 'memory creation rate')                                #Memory creation rate(MCR) Energy * Time (ET) KWS (KiloWattSeconds)
                                                                   #E= 0.114880KWH/360sec * 1= 0.000319111KWS  [Q1= 4.050512472859282]
 #OUT:  0.0012925630857265984 memory creation rate
 
-#0.0044242858090228765
-#4.050512472859282
-#0.0012925630857265984 memory creation rate
+import timeit
+Q2= min(timeit.repeat(number=10000,repeat=3,stmt="L=[100]\nM=[x+1 for x in L]"))
+print(Q2,'10000byteparticlesematrixarrayContainer1timeit')
+
+import timeit
+Q1= min(timeit.repeat(number=10000000,repeat=3,stmt="L=[100]\nM=[x+1 for x in L]"))
+print(Q1,'10000000byteparticlesmatrixarrayMasterContainer1timeit')
+
+#Q2OUT: 0.004874716554695624 10000byteparticlesematrixarrayContainer1timeit
+#Q1OUT: 4.79955644878919 10000000byteparticlesmatrixarrayMasterContainer1timeit
+
 
 AlexG Essay 05102016
 
