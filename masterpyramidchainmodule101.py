@@ -122,10 +122,19 @@ x= i
 display(x)
 
 import timeit
-min(timeit.repeat(number=10000,repeat=3,stmt="L=[100]\nM=[x+1 for x in L]"))
+Q2= min(timeit.repeat(number=10000,repeat=3,stmt="L=[100]\nM=[x+1 for x in L]"))
 
 import timeit
-min(timeit.repeat(number=10000000,repeat=3,stmt="L=[100]\nM=[x+1 for x in L]"))
+Q1= min(timeit.repeat(number=10000000,repeat=3,stmt="L=[100]\nM=[x+1 for x in L]"))
+
+#Memory Creation Rate                                      #Time Demension of 3DMatrix Array Byteparticles.(xyt)
+
+KWS= 0.000319111 * Q1
+print(KWS, 'memory creation rate')                         #Memory creation rate(MCR) Energy * Time (ET) KWS (KiloWattSeconds)
+                                                           #E= 0.114880KWH/360sec * 1= 0.000319111KWS  [Q1= 4.050512472859282]
+#Q2= 0.0044242858090228765
+#Q1= 4.050512472859282
+#0.0012925630857265984 memory creation rate
 
 #Kryptheum bytecode
 
