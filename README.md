@@ -60,7 +60,7 @@ print(a1,'MasterPyramidChainVolume')
 #400byteparticles of memory creation= [1gigabyte/1000000000byteparticles 3Dmatrix array (xyt)E]
 
 
-KWS= 0.000319111 * Q1                                             #E= 0.114880KWH/360sec * 1= 0.000319111KWS  [Q1= 4.050512472859282]
+KWS= 0.000319111 * Q1                                             #E= 0.114880KWH/3600sec * 1= 0.000319111KWS  [Q1= 4.050512472859282]
 print(KWS, 'memory creation rate')                                #Memory creation rate(MCR) Energy * Time (ET) KWS (KiloWattSeconds)
 # Q1= min(timeit.repeat(number=10000000,repeat=3,stmt="L=[100]\nM=[x+1 for x in L]"))                                                                 
 #OUT:  0.00012925630857265984 memory creation rate
