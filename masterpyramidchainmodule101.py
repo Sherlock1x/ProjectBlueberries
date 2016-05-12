@@ -123,11 +123,20 @@ display(x)
 
 import timeit
 Q2= min(timeit.repeat(number=10000,repeat=3,stmt="L=[100]\nM=[x+1 for x in L]"))
-
+print(Q2,'10000byteparticlesematrixarrayContainer1timeit')
 import timeit
 Q1= min(timeit.repeat(number=10000000,repeat=3,stmt="L=[100]\nM=[x+1 for x in L]"))
+print(Q1,'10000000byteparticlesmatrixarrayMasterContainer1timeit')
+
+#Kilowatt hour     https://en.wikipedia.org/wiki/Kilowatt_hour
+
+#The kilowatt hour (symbol kWh, kW·h, or kW h) is a derived unit of energy equal to 3.6 megajoules.[1][2]
+#If the energy is being transmitted or used at a constant rate (power) over a period of time, the total energy in
+#kilowatt-hours is the product of the power in kilowatts and the time in hours. 
+#The kilowatt-hour is commonly used as a billing unit for energy delivered to consumers by electric utilities.
 
 #Memory Creation Rate                                      #Time Demension of 3DMatrix Array Byteparticles.(xyt)
+#400byteparticles of memory creation= [1gigabyte/1000000000byteparticles 3Dmatrix array (xyt)E]
 
 KWS= 0.000319111 * Q1
 print(KWS, 'memory creation rate')                         #Memory creation rate(MCR) Energy * Time (ET) KWS (KiloWattSeconds)
@@ -135,6 +144,13 @@ print(KWS, 'memory creation rate')                         #Memory creation rate
 #Q2= 0.0044242858090228765
 #Q1= 4.050512472859282
 #  0.0012925630857265984 memory creation rate
+
+#OUT:
+#0.004803779754240622 10000byteparticlesematrixarrayContainer1timeit
+#4.7515095954851745 10000000byteparticlesmatrixarrayMasterContainer1timeit
+#OUT:
+#4.891050981831626             #=[0.004803779754240622 + 4.7515095954851745 10000000byteparticlesmatrixarrayMasterContainer1timeit]
+
 
 #Kryptheum bytecode
 
