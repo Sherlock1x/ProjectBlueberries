@@ -2,6 +2,12 @@
 
 "Byte Particles Elements"  (BPE) Virtual Machine
 
+Distribution Ledger See Below
+
+['Accounts Receivable,("Acttrec")f.write:client e-mail Folder Path'] ++
+
+['Accounts Payable,("Acttpay")f.write:client e-mail Folder Path'] - -
+
 "Virtual Universe, Registered Byte Particle Element", a universe, registered byte particle element, that can never be directly detected, 
 but whose existence does have measurable "Store of unit value"(souv) effects. Quote: "Stephen Hawking's"
 
@@ -32,6 +38,26 @@ Truck TO:||||||||Cloud Code Packaging Warehouse (CCPW)||||||| "In God we Trust" 
 [00:00:03] Discovering tests...
 [00:00:03] OK
 [00:00:03] Build success
+
+print (arr. nbytes) #(’Of Memory Creation used (in bytes; 0 to 100 _PyramidChainContainers_ ) Memory Creation Rate(MCR) = ENERGY times                     #TIME
+                    #(ET) = 0.114880 KWH/360sec *1= 0.000319111KWS Time Demension of 3DMatrix Array Byteparticles.(xyt)
+                    #E= 0.000319111KWSec
+                    
+a1= 1000000000 * 1.01/1/3                                         #V= 1/3bh
+print(a1,'MasterPyramidChainVolume')
+
+#OUT:  336666666.6666667 MasterPyrmidChainVolume                   #The volume of a pyramid
+
+#Memory Creation Rate(MCR)                                         #Time Demension of 3DMatrix Array Byteparticles.(xyt)
+
+KWS= 0.000319111 * Q1
+print(KWS, 'memory creation rate')                                #Memory creation rate(MCR) Energy * Time (ET) KWS (KiloWattSeconds)
+                                                                  #E= 0.114880KWH/360sec * 1= 0.000319111KWS  [Q1= 4.050512472859282]
+#OUT:  0.0012925630857265984 memory creation rate
+
+#0.0044242858090228765
+#4.050512472859282
+#0.0012925630857265984 memory creation rate
 
 AlexG Essay 05102016
 
