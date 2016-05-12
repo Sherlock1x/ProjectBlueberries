@@ -140,7 +140,7 @@ print(Q1,'10000000byteparticlesmatrixarrayMasterContainer1timeit')
 
 KWS= 0.0000319111 * Q1
 print(KWS, 'memory creation rate')                         #Memory creation rate(MCR) Energy * Time (ET) KWS (KiloWattSeconds)
-                                                           #E= 0.114880KWH/360sec * 1= 0.0000319111KWS  [Q1= 4.050512472859282]
+                                                           #E= 0.114880KWH/3600sec * 1= 0.0000319111KWS  [Q1= 4.050512472859282]
 #Q2= 0.0044242858090228765
 #Q1= 4.050512472859282
 #  0.00012925630857265984 memory creation rate
