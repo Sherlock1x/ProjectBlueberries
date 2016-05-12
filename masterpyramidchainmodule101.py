@@ -134,7 +134,7 @@ print(KWS, 'memory creation rate')                         #Memory creation rate
                                                            #E= 0.114880KWH/360sec * 1= 0.000319111KWS  [Q1= 4.050512472859282]
 #Q2= 0.0044242858090228765
 #Q1= 4.050512472859282
-#0.0012925630857265984 memory creation rate
+#  0.0012925630857265984 memory creation rate
 
 #Kryptheum bytecode
 
