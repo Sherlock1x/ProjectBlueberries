@@ -138,9 +138,10 @@ print(Q1,'10000000byteparticlesmatrixarrayMasterContainer1timeit')
 #Memory Creation Rate                                      #Time Demension of 3DMatrix Array Byteparticles.(xyt)
 #400byteparticles of memory creation= [1gigabyte/1000000000byteparticles 3Dmatrix array (xyt)E]
 
-KWS= 0.0000319111 * Q1
+KWS= 0.0000319111 * Q1                                     #E= 0.114880KWH/3600sec * 1= 0.0000319111KWS  [Q1= 4.050512472859282]
 print(KWS, 'memory creation rate')                         #Memory creation rate(MCR) Energy * Time (ET) KWS (KiloWattSeconds)
-                                                           #E= 0.114880KWH/3600sec * 1= 0.0000319111KWS  [Q1= 4.050512472859282]
+#Q1= min(timeit.repeat(number=10000000,repeat=3,stmt="L=[100]\nM=[x+1 for x in L]"))                                                           
+                                                           
 #Q2= 0.0044242858090228765
 #Q1= 4.050512472859282
 #  0.00012925630857265984 memory creation rate
