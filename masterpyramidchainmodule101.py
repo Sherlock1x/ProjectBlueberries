@@ -1,5 +1,7 @@
 #File "MasterPyramidChainModule101.py"
 
+#"In the beginning was the Universe" John1:1a
+
 import numpy
 
 import numpy as np
