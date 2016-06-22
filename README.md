@@ -90,6 +90,25 @@ Some days can be dark, somedays can be light.
 
 Life is an adventure it can be dangerous or it can be amazing. A new day is a new adventure it can be lived on.
 
+What is 'Dark Pool Liquidity'
+Dark pool liquidity is the trading volume created by institutional orders executed on private exchanges and unavailable to the public. The bulk of dark pool liquidity 
+is represented by block trades facilitated away from the central exchanges. 
+It is also referred to as the "upstairs market," "dark liquidity" or "dark pool."
+Read more: Dark Pool Liquidity Definition | Investopedia http://www.investopedia.com/terms/d/dark_pool_liquidity.asp#ixzz4CHwgupkb 
+Follow us: Investopedia on Facebook
+
+BREAKING DOWN 'Dark Pool Liquidity'
+The dark pool gets its name because details of these trades are concealed from the public, clouding the transactions like murky water. Some traders who use a strategy based on liquidity feel that dark pool liquidity should be publicized to make trading more "fair" for all parties involved.
+The Emergence of Dark Pools
+With the advent of supercomputers capable of executing algorithmic-based programs over the course of just milliseconds, high-frequency trading (HFT) has come to dominate daily trading volume. HFT technology allows institutional traders to execute their orders of multi-million share blocks ahead of other investors, capitalizing on fractional upticks or downticks in share prices. When subsequent orders are executed, profits are instantly obtained by HFT traders who then close out their positions. This form of legal piracy can occur dozens of times a day, reaping huge gains for HFT traders.
+
+Eventually, HFT became so pervasive it grew increasingly difficult to execute large trades through a single exchange. Because large HFT orders had to be spread among multiple exchanges, it alerted trading competitors who could then get in front of the order and snatch up the inventory, driving up share prices. All of this occurred within milliseconds of the initial order being placed.
+
+To avoid the transparency of public exchanges and ensure liquidity for large block trades, several of the investment banks established private exchanges, which came to be known as dark pools. For traders with large orders who are unable to place them on the public exchanges, or want to avoid telegraphing their intent, dark pools provide a market of buyers and sellers with the liquidity to execute the trade. In 2016, there are more than 50 dark pools operating in the United States, run mostly by investment banks.
+
+Dark Pools Under Scrutiny
+Although considered legal, dark pools are able to operate with little transparency. Those who have denounced HFT as an unfair advantage over other investors have also condemned the lack of transparency in dark pools, which can hide conflicts of interest. The Securities and Exchange Commission (SEC) has stepped up its scrutiny of dark pools over complaints of illegal front-running that occurs when institutional traders place their order in front of a customer’s order to capitalize on the uptick in share prices. Advocates of dark pools insist they provide essential liquidity, allowing the markets to operate more efficiently.
+
 END;
 
 END;
