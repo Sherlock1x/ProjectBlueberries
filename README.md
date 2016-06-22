@@ -90,6 +90,8 @@ Some days can be dark, somedays can be light.
 
 Life is an adventure it can be dangerous or it can be amazing. A new day is a new adventure it can be lived on.
 
+"BYTE PARTICLES"     http://www.investopedia.com/terms/d/dark_pool_liquidity.asp
+
 What is 'Dark Pool Liquidity'
 Dark pool liquidity is the trading volume created by institutional orders executed on private exchanges and unavailable to the public. The bulk of dark pool liquidity 
 is represented by block trades facilitated away from the central exchanges. 
