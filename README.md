@@ -111,6 +111,49 @@ To avoid the transparency of public exchanges and ensure liquidity for large blo
 Dark Pools Under Scrutiny
 Although considered legal, dark pools are able to operate with little transparency. Those who have denounced HFT as an unfair advantage over other investors have also condemned the lack of transparency in dark pools, which can hide conflicts of interest. The Securities and Exchange Commission (SEC) has stepped up its scrutiny of dark pools over complaints of illegal front-running that occurs when institutional traders place their order in front of a customer’s order to capitalize on the uptick in share prices. Advocates of dark pools insist they provide essential liquidity, allowing the markets to operate more efficiently.
 
+Mission Statement
+
+Financial Structured Modeling
+
+Kryptheum Software
+
+Our mission is to maximize shareovvner value over time.
+
+In order to achieve this mission, we must create value for all the constituents we serve, including our consumers, our customers, our vendors, and our communities. Kryptheum Software creates value by executing a comprehensive business strategy guided by seven key beliefs.
+
+1 . Consumer demand drives everything we do.
+
+2. Brand Kryptheum Software is the core of our business.
+
+3. We will serve consumers a broad selection of software in all our operations daily all over the world.
+
+4. We will be the best marketers in the world.
+
+5. We will think and act locally and around the globe.
+
+6. We will lead as a model corporate citizen.
+
+7.  0230 Divisions world wide, 166 USA, 13 Canada, and 51
+
+oversea’s.
+
+The ultimate objective of our business strategy are to increase volume, expand our share of worldwide Software in our Company and to maximize our long-term cash flows and to create economic-value-added by improving economic NOPAT.
+
+Page I of 2
+
+The Kryptheum Software has more than 25 million customers around the world that consume are Software needs daily.
+
+We keenly focus on enhancing value for these customers, and helping grow our Software businesses. We strive to understand customer’s needs, whether that customer is sophisticated in a developed market or a kiosh customer’s in an emerging market.
+
+There are nearly 7 billion people in the world who are potential consumers of our Software. Ultimately, our success in achieving our mission depends on our ability to satisfy more of our customer demands and our ability to add value for our customers. We achieve this when we place the right 
+
+Software in the right markets at the right time.
+
+Page 2 of 2
+
+Welcome to Google Docs
+
+
 END;
 
 END;
