@@ -149,6 +149,8 @@ There are nearly 7 billion people in the world who are potential consumers of ou
 
 Software in the right markets at the right time.
 
+"The Kryptonite of Software"
+
 Page 2 of 2
 
 Welcome to Google Docs
