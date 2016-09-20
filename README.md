@@ -159,6 +159,9 @@ Welcome to Google Docs
 
 kryptheum@hotmail.com
 
+Bitcoin is money, US judge says in case tied to JPMorgan hack
+
+http://www.cnbc.com/2016/09/20/bitcoin-is-money-us-judge-says-in-case-tied-to-jpmorgan-hack.html
 
 END;
 
