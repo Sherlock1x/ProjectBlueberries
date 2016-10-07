@@ -1,4 +1,4 @@
-# ProjectBlueberries
+# ProjectBlueberries White Papers
 
 "Byte Particles Elements"  (BPE) Virtual Machine
 
