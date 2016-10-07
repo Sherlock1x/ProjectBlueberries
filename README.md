@@ -163,6 +163,10 @@ Bitcoin is money, US judge says in case tied to JPMorgan hack 20160920
 
 http://www.cnbc.com/2016/09/20/bitcoin-is-money-us-judge-says-in-case-tied-to-jpmorgan-hack.html
 
+Article "Where Living in a Matrix Array"  20161007
+
+http://www.cnbc.com/2016/10/07/tech-billionaires-think-we-live-in-the-matrix-and-have-asked-scientists-to-get-us-out.html
+
 END;
 
 END;
