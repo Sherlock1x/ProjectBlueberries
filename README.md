@@ -167,6 +167,10 @@ Article "Where Living in a Matrix Array"  20161007
 
 http://www.cnbc.com/2016/10/07/tech-billionaires-think-we-live-in-the-matrix-and-have-asked-scientists-to-get-us-out.html
 
+Snowflake
+
+https://en.wikipedia.org/wiki/Snowflake        20161115
+
 END;
 
 END;
