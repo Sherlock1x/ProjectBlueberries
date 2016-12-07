@@ -171,6 +171,10 @@ Snowflake
 
 https://en.wikipedia.org/wiki/Snowflake        20161115
 
+ compared the current situation of cryptocurrencies to the advent of digital cameras.  that it is a "new asset class" with long-term potential.
+
+"It's the advent of digital currency/Property  there is bound to be potential markets in the Asset Classes....     20161207
+
 END;
 
 END;
