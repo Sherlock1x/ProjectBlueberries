@@ -175,6 +175,10 @@ https://en.wikipedia.org/wiki/Snowflake        20161115
 
 "It's the advent of digital currency/Property  there is bound to be potential markets in the Asset Classes....     20161207
 
+Blockchain Lures Central Banks as Danes Consider Minting E-Krone                                                   20161211
+
+https://www.bloomberg.com/news/articles/2016-12-11/blockchain-lures-central-banks-as-danes-consider-minting-e-krone?cmpid=socialflow-twitter-business&utm_content=business&utm_campaign=socialflow-organic&utm_source=twitter&utm_medium=social
+
 END;
 
 END;
