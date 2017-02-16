@@ -1,6 +1,6 @@
 # ProjectBlueberries White Papers
 
-"Byte Particles Elements"  (BPE) Virtual Machine
+"Byte Particles Elements"  (BPE) [Virtual Machine Innovation]
 
 Distribution Ledger See Below
 
