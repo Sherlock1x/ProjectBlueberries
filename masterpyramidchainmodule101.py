@@ -26,7 +26,7 @@ print (arr. nbytes) #(’Memory used (in bytes; 0 to 100 _PyramidChainContainers
 
 #http://matplotlib.org/api/pyplot_summary.html
 import matplotlib.pyplot as plt
-plt.plot(10,10,'ro')
+plt.plot(10,10,100,100,50,50,'ro')
 plt.show()
 
 
