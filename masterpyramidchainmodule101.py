@@ -159,6 +159,35 @@ print(KWS, 'memory creation rate')                         #Memory creation rate
 #OUT:
 #4.891050981831626             #=[0.004803779754240622 + 4.7515095954851745 10000000byteparticlesmatrixarrayMasterContainer1timeit]
 
+"""
+Pyplot animation example.
+
+The method shown here is only for very simple, low-performance
+use.  For more demanding applications, look at the animation
+module and the examples that use it.
+"""
+
+import matplotlib.pyplot as plt
+import numpy as np
+
+x = np.arange(11)
+y = np.arange(11)
+z = x * y[:, np.newaxis]
+
+for i in range(100):
+    if i == 0:
+        p = plt.imshow(z)
+        fig = plt.gcf()
+        plt.clim()   # clamp the color limits
+        plt.title("MatrixArray 0 to 99 Index PyramidChainMasterContainer1")
+    else:
+        z = z + 2
+        p.set_data(z)
+
+    print("Pyramid Chain 10000Byte Particles Index", i)
+    plt.pause(0.5)
+    
+
 
 #Kryptheum bytecode
 
