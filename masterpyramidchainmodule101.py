@@ -161,8 +161,11 @@ print(KWS, 'memory creation rate')                         #Memory creation rate
 
 """
 Pyplot animation example.
-"MatrixArray 0 to 99 Index PyramidChainMasterContainer1"
-'1Million Byte Particle Matrix array Index Lower Right'
+MasterPyramidChain
+
+"Master_Container1_1Billion Byteparticles MatrixArray"
+"MatrixArray 0 to 99 Index _MasterContainer1_"
+'1Million Byte Particle MatrixArray Index Lower Right'
 
 The method shown here is only for very simple, low-performance
 use.  For more demanding applications, look at the animation
@@ -181,8 +184,8 @@ for i in range(100):
         p = plt.imshow(z)
         fig = plt.gcf()
         plt.clim()   # clamp the color limits
-        plt.title("MatrixArray 0 to 99 Index PyramidChainMasterContainer1")
-        plt.xlabel('1Million Byte Particle Matrix array Index Lower Right ')
+        plt.title("MatrixArray 0 to 99 Index_MasterContainer1_")
+        plt.xlabel('1Million ByteParticle MatrixArrayContainer1 Index Lower Right ')
         plt.ylabel ('y Axis')
         plt.grid(True)
         plt.plot(10,10,'ro')
@@ -191,7 +194,7 @@ for i in range(100):
         z = z + 2
         p.set_data(z)
 
-    print("Pyramid Chain 10000Byte Particles Index", i)
+    print("MatrixArray Container1 10000Byte Particles Index", i)
     plt.pause(0.5)
     
 
