@@ -163,7 +163,7 @@ print(KWS, 'memory creation rate')                         #Memory creation rate
 Pyplot animation example.
 MasterPyramidChain
 
-"Master_Container1_1Billion Byteparticles MatrixArray"
+"Master_Container1_Wvvb_1Billion Byteparticles MatrixArray"
 "MatrixArray 0 to 99 Index _MasterContainer1_"
 '1Million Byte Particle MatrixArray Index Lower Right'
 
