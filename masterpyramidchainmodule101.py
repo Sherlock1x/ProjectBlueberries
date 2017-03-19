@@ -163,8 +163,8 @@ print(KWS, 'memory creation rate')                         #Memory creation rate
 Pyplot animation example.
 MasterPyramidChain
 
-"Master_Container1_Wvvb_1Billion Byteparticles MatrixArray"    #Wvvb "WorldVisionVirtualBank" embeds in MasterPyramidChain
-"MatrixArray 0 to 99 Index _MasterContainer1_"
+"Master_Container1_Wvvb_1Billion Byteparticles MatrixArray"    # Wvvb "WorldVisionVirtualBank" embeds in MasterPyramidChain
+"MatrixArray 0 to 99 Index _MasterContainer1_"                 # WorldVisionVirtualBank@mail.com peer to peer e-mail embeds ActtRecLedger, 1Million Byteparticles
 '1Million Byte Particle MatrixArray Index Lower Right'
 
 The method shown here is only for very simple, low-performance
