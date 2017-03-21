@@ -179,6 +179,14 @@ Blockchain Lures Central Banks as Danes Consider Minting E-Krone                
 
 https://www.bloomberg.com/news/articles/2016-12-11/blockchain-lures-central-banks-as-danes-consider-minting-e-krone?cmpid=socialflow-twitter-business&utm_content=business&utm_campaign=socialflow-organic&utm_source=twitter&utm_medium=social
 
+Techopedia explains Quantum Key Distribution (QKD)          20170321
+
+Quantum key distribution exploits quantum mechanics to transmit keys between two parties securely. While a key, or a one-time pad, is theoretically unbreakable, the key challenge is getting both parties in a conversation to agree to the same key without the key being intercepted by a third party.
+
+Quantum key distribution uses lasers to transmit the keys. The quantum properties of photons in the beams are coded into binary ones and zeroes. While a third party can intercept the beam, by being observed, the quantum properties change, making the keys useless to an attacker.
+
+A practical application of the technique is secure communication between submarines. Commercial QKD systems are aimed at those with a need for high security, such as the defense industry.
+
 END;
 
 END;
