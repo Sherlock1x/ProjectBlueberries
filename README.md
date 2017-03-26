@@ -187,6 +187,8 @@ Quantum key distribution uses lasers to transmit the keys. The quantum propertie
 
 A practical application of the technique is secure communication between submarines. Commercial QKD systems are aimed at those with a need for high security, such as the defense industry.
 
+http://www.livescience.com/33816-quantum-mechanics-explanation.html         What Is Quantum Mechanics?     20170325
+
 END;
 
 END;
