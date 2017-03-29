@@ -189,6 +189,22 @@ A practical application of the technique is secure communication between submari
 
 http://www.livescience.com/33816-quantum-mechanics-explanation.html         What Is Quantum Mechanics?     20170325
 
+Read More:       20170329
+Scientists have confirmed a brand new phase of matter: time crystals
+http://www.sciencealert.com/scientist...
+"Now it's official - researchers have just reported in detail how to make and measure these bizarre crystals. And two independent teams of scientists claim they've actually created time crystals in the lab based off this blueprint, confirming the existence of an entirely new phase of matter. The discovery might sound pretty abstract, but it heralds in a whole new era in physics - for decades we've been studying matter that's defined as being 'in equilibrium', such as metals and insulators."
+
+Physicists Create World's First Time Crystal
+https://www.technologyreview.com/s/60...
+"Today, we get an answer thanks to the work of Chris Monroe at the University of Maryland in College Park and a few pals, who have created a time crystal in their laboratory for the first time.
+The basic process for making time crystals is straightforward. The idea is to create a quantum system, such as a group of ions arranged in a ring, and cool them until they are in their lowest energy state. In these circumstances, the laws of physics would suggest that the ring should be perfectly stationary."
+
+Viewpoint: How to Create a Time Crystal
+http://physics.aps.org/articles/v10/5
+"The story of time crystals-whose lowest-energy configurations are periodic in time rather than space-epitomizes the creative ideas, controversy, and vigorous discussion that lie at the core of the scientific process. Originally theorized by Frank Wilczek in 2012, time crystals were met with widespread attention, but also a healthy dose of skepticism. This ignited a debate in the literature, culminating in a proof that time crystals cannot exist in thermal equilibrium, as originally imagined by Wilczek. But the tale did not end there." 
+
+
+
 END;
 
 END;
