@@ -203,6 +203,8 @@ Viewpoint: How to Create a Time Crystal
 http://physics.aps.org/articles/v10/5
 "The story of time crystals-whose lowest-energy configurations are periodic in time rather than space-epitomizes the creative ideas, controversy, and vigorous discussion that lie at the core of the scientific process. Originally theorized by Frank Wilczek in 2012, time crystals were met with widespread attention, but also a healthy dose of skepticism. This ignited a debate in the literature, culminating in a proof that time crystals cannot exist in thermal equilibrium, as originally imagined by Wilczek. But the tale did not end there." 
 
+https://www.youtube.com/watch?v=YoJ5BRghuAk    How Many Dimensions Does The Universe Have?         20170330
+
 
 
 END;
