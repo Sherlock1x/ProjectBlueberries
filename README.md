@@ -1,5 +1,9 @@
 # ProjectBlueberries White Papers
 
+Conda install jupyter      # Windows Power Shell
+
+Conda update jupyter       #Windows Power Shell
+
 "Byte Particles Elements"  (BPE) [Virtual Machine Innovation]
 
 Distribution Ledger See Below
