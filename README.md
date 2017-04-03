@@ -209,6 +209,16 @@ http://physics.aps.org/articles/v10/5
 
 https://www.youtube.com/watch?v=YoJ5BRghuAk    How Many Dimensions Does The Universe Have?         20170330
 
+Dimensions      20170403
+[(x,y,z,t,g, + xp,yp,zp,tp,gp) + p] = 11 Dimensions
+t = time
+g = gravity
+p = probability
+
+
+
+
+
 
 
 END;
