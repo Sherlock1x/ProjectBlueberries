@@ -209,16 +209,23 @@ for i in range(100):
 
 #A list of bytecode instructions can be found in the documentation for the dis module.
 
-#DISCLAIMER: This e-mail and any file(s) transmitted with it, is intended for the exclusive use by the person(s) mentioned above as recipient(s). 
+#DISCLAIMER: This e-mail and any file(s) transmitted with it, is intended for the exclusive use by the person(s) mentioned above 
+as recipient(s). 
 #This e-mail may contain confidential information and/or information protected by intellectual property rights or other rights. 
-#If you are not the intended recipient of this e-mail, you are hereby notified that any dissemination, distribution, copying, or action 
+#If you are not the intended recipient of this e-mail, you are hereby notified that any dissemination, distribution, copying, 
+or action 
 #taken in relation to the contents of and attachments to this e-mail is strictly prohibited and may be unlawful. This e-mail is strictly
-#prohibited and may be unlawful, If you have received this e-mail in error of, and please notify the sender and delete the original and any
+
+#prohibited and may be unlawful, If you have received this e-mail in error of, and please notify the sender and delete the original and
+any
 #copies of this e-mail and any printouts immediately from your system and destroy  all copies of it.
 
-#THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
-#PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-#IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+#THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES 
+OF MERCHANTABILITY, FITNESS FOR A
+#PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR 
+OTHER LIABILITY, WHETHER
+#IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE 
+OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 
