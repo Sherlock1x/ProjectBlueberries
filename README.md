@@ -159,7 +159,8 @@ Page 2 of 2
 
 Welcome to Google Docs
 
-**Valuation of Kryptheum Software 100MB = $1,000,000.00  1000MB/1GiGByte = $10,000,000.00  20160827
+**Valuation of Kryptheum Software 100MB = $1,000,000.00  [1000MB/1GiGByte = $10,000,000.00]  20160827
+                                                         [1000GB/1TaraByte = $1,000,000,000,00]    20170516
 
 kryptheum@hotmail.com
 
