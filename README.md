@@ -1,5 +1,7 @@
 # ProjectBlueberries White Papers
 
+The Path of Less Resistance is "Bit/Bytes" Elements of crypto "C" currency a Virtual Universe.............
+
 Conda install jupyter      # Windows Power Shell
 
 Conda update jupyter       #Windows Power Shell
