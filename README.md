@@ -221,6 +221,10 @@ p = probability
 
 Synthetic Blood             20170601
 
+'We are about to see massive disruptions': IMF's Lagarde says it's time to get serious about digital currency      20171013
+
+https://www.cnbc.com/2017/10/13/bitcoin-get-serious-about-digital-currency-imf-christine-lagarde-says.html
+
 
 
 
