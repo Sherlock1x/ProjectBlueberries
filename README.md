@@ -225,6 +225,13 @@ Synthetic Blood             20170601
 
 https://www.cnbc.com/2017/10/13/bitcoin-get-serious-about-digital-currency-imf-christine-lagarde-says.html
 
+Spooling is a process 
+
+What does it mean?
+
+Spooling is a process in which data is temporarily held to be used and executed by a device, program or the system. Data is sent to and stored in memory or other volatile storage until the program or computer requests it for execution.
+"Spool" is technically an acronym for simultaneous peripheral operations online.         20171109
+
 
 
 
