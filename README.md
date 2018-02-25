@@ -232,6 +232,8 @@ What does it mean?
 Spooling is a process in which data is temporarily held to be used and executed by a device, program or the system. Data is sent to and stored in memory or other volatile storage until the program or computer requests it for execution.
 "Spool" is technically an acronym for simultaneous peripheral operations online.         20171109
 
+https://www.link360inc.com/blog/how-to-create-a-winning-content-marketing-strategy?ref=quuu&utm_source=quuu   20180225
+
 
 
 
