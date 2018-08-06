@@ -234,6 +234,15 @@ Spooling is a process in which data is temporarily held to be used and executed 
 
 https://www.link360inc.com/blog/how-to-create-a-winning-content-marketing-strategy?ref=quuu&utm_source=quuu   20180225
 
+Blockchain Economy
+
+What does it mean?
+Blockchain economy is a term for a move toward cryptocurrencies and digital ledger systems, and away from traditional national hard currencies and legacy ledger systems. In the blockchain economy, technologies like bitcoin and blockchain are the typical tools for financial management, rather than traditional software programs managing national currencies.          20180806
+
+
+
+
+
 
 
 
