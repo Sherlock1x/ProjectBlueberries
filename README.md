@@ -239,6 +239,9 @@ Blockchain Economy
 What does it mean?
 Blockchain economy is a term for a move toward cryptocurrencies and digital ledger systems, and away from traditional national hard currencies and legacy ledger systems. In the blockchain economy, technologies like bitcoin and blockchain are the typical tools for financial management, rather than traditional software programs managing national currencies.          20180806
 
+https://www.cnbc.com/advertorial/2018/07/17/considerations-for-building-a-marketplace-that-scales.html?mvt=i&mvn=bdf7e41bdaf549a2943a78fe749c6566&mvp=NA-CNBC-11239420&mvl=+%5BLegacy+Homepages%5D
+20181005
+
 
 
 
