@@ -1,4 +1,4 @@
-WVVB Check Master Ledger
+WVVB Check Master Ledger "Pay Master"
 
 CryptoCurrency/Properties   BitBytes                                  0000001.0
 
