@@ -1,5 +1,7 @@
 # ProjectBlueberries White Papers
 
+Structure Financial Modeling CRYPTO's...........
+
 The Path of Less Resistance is "Bit/Bytes" Elements of crypto "C" currency a Virtual Universe.............
 
 Conda install jupyter      # Windows Power Shell
