@@ -57,10 +57,10 @@ class MasterLedger {
     
 
     [void] Drive ([int] $Tx1amount,$Acct1rec,$Acct1Paymt,$Acct1Ball) {
-        $this.$Tx1amount += $Tx1amount;`
-        $this.$Acct1Rec += $Acct1Rec;`
-        $this.$Acct1Paymt -= $Acct1Paymt;`
-        $this.$Acct1Ball += $Acct1Ball;`
+        $this.$Tx1amount += $Tx1amount;` -Foregroundcolor Red
+        $this.$Acct1Rec += $Acct1Rec;` -Foregroundcolor Green
+        $this.$Acct1Paymt -= $Acct1Paymt;` -Foregroundcolor Yellow
+        $this.$Acct1Ball += $Acct1Ball;` -Foregroundcolor Green
 
     }    
     
