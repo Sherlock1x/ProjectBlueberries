@@ -30,7 +30,7 @@ https://github.com/Sherlock1x
 #"MasterLedger File loaded in your e-mail account"
 
 
-class MasterLedger {
+class MasterLedger {        #"Loaded in Memory"
     
     [string] $Acct1email;`
     [string] $Tx1amount;`
