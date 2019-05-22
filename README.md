@@ -247,8 +247,9 @@ https://www.cnbc.com/advertorial/2018/07/17/considerations-for-building-a-market
 20181005
 
 
+Optical fiber cables, how do they work?        20190522
 
-
+https://www.youtube.com/watch?v=jZOg39v73c4      
 
 
 
