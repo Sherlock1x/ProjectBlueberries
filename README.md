@@ -257,6 +257,10 @@ MIT MAS.S62 Cryptocurrency Engineering and Design, Spring 2018         20191023
 
 https://www.youtube.com/watch?v=IJquEYhiq_U&list=PLUl4u3cNGP61KHzhg3JIJdK08JLSlcLId
 
+What is The Schrödinger Equation, Exactly?                20191107
+
+https://www.youtube.com/watch?v=QeUMFo8sODk
+
 
 
 
