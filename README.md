@@ -261,6 +261,10 @@ What is The Schrödinger Equation, Exactly?                20191107
 
 https://www.youtube.com/watch?v=QeUMFo8sODk
 
+Michael Farr: SPACs are the new market bubble              20201030
+
+https://www.cnbc.com/2020/10/30/michael-farr-spacs-are-the-new-market-bubble.html
+
 
 
 
