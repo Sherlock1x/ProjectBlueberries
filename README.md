@@ -265,6 +265,10 @@ Michael Farr: SPACs are the new market bubble              20201030
 
 https://www.cnbc.com/2020/10/30/michael-farr-spacs-are-the-new-market-bubble.html
 
+Special Purpose Acquisition Company (SPAC)
+
+https://www.investopedia.com/terms/s/spac.asp
+
 
 
 
