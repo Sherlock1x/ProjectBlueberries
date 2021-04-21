@@ -273,6 +273,8 @@ The Eleventh Dimension
 
 https://mikegiannuzzi.wixsite.com/website
 
+https://en.wikipedia.org/wiki/Drake_equation
+
 
 
 
