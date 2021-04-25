@@ -18,7 +18,7 @@ Distribution Ledger See Below
 
 ['Accounts Payable,("Acttpay")f.write:client e-mail Folder Path'] - -
 
-"Virtual Universe, Registered Byte Particle Element", a universe, registered byte particle element, that can never be directly detected, 
+"Virtual Universe, Registered Byte Particle Element in Memory", a universe, registered byte particle element in Memory, that can never be directly detected, 
 but whose existence does have measurable "Store of unit value"(souv) effects. Quote: "Stephen Hawking's"
 
 https://en.wikipedia.org/wiki/Serialization
