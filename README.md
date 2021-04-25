@@ -21,6 +21,8 @@ Distribution Ledger See Below
 "Virtual Universe, Registered Byte Particle Element", a universe, registered byte particle element, that can never be directly detected, 
 but whose existence does have measurable "Store of unit value"(souv) effects. Quote: "Stephen Hawking's"
 
+https://en.wikipedia.org/wiki/Serialization
+
 Embed Code  "Kryptheum PyramidChainContainer" Beta Virtual Machine"
 
 #"Universe Byte Particle", "Matrix Array Containers" World Vision Virtual Bank...(1 Container= 10000 Bytes; 0 to 100 Index #10x10Shape; 
