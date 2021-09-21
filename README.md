@@ -285,6 +285,10 @@ Shadow Banks and the Collateral Multiplier   07/26/2021
 
 https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1311&context=econ_workingpaper
 
+History of the Universe      09/21/2021
+
+https://www.youtube.com/watch?v=euNr9PozCmg
+
 
 
 
