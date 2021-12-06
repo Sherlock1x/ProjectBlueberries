@@ -25,6 +25,10 @@ https://en.wikipedia.org/wiki/Serialization
 
 Embed Code  "Kryptheum PyramidChainContainer" Beta Virtual Machine"
 
+CSS Container Queries      20211206
+
+https://www.youtube.com/watch?v=Cxp4Vohm6Ec
+
 #"Universe Byte Particle", "Matrix Array Containers" World Vision Virtual Bank...(1 Container= 10000 Bytes; 0 to 100 Index #10x10Shape; 
 #'_PYRAMIDCHAIN.CONTAINERS_')
 
