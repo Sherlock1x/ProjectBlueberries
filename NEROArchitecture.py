@@ -192,7 +192,7 @@ def transactionLogs(floatCurrent, transactionOccured, floatAddedAmount, newAmoun
     LOG.write("\nNew AcctBalance: " + updatedAmount)
     LOG.write("\nNew AcctBalance: " + updatedAmount)
     LOG.write(noww.strftime('%c-%H-%M-%S.'))
-    LOG.write("Cumalative Account Amount, $11372.00")
+    LOG.write("Cumalative Account Amount, $12194.00")
 
     h=1
     b=1
@@ -236,7 +236,15 @@ main()                         #main()
 #       [910000, 920000, 930000, 940000, 950000, 960000, 970000, 980000, 990000, 1000000],
 # ]
 
-# print(matrix, c, 'Container1/1000000 BytesParticles', 'WorldVisionVirtualBank@mail.com')
+# print(matrix, c, 'Container1/1000000 BytesParticles', 'WorldVisionVirtualBank1@gmail.com')
+
+print('When a black hole feeds on stars, gas or dust the meal produces jets of GOLD Particles and radiation blasting out') 
+print('from the black holes poles at near light speed') 
+print('They can extend for thousand of light years into space. Yield 16000 oz x $2700.00/ gold = PV $43.2mil ,FV43.2bln.')
+
+print('worldvisionvirtualbank1@gmail.com')
+
+
 
 
 
