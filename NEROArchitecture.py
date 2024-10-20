@@ -15,13 +15,15 @@
 # that can never be directly detected, but whose existence does have measurable 
 # "Store of unit value"(souv) effects. Quote: "Stephen Hawking's"
 
-
+import rich
 import math
 import sys
 import datetime
 from datetime import date
 from datetime import datetime
 import logging
+from rich.logging import RichHandler
+from rich import print
 #z=1/3
 #s=666245
 
@@ -47,7 +49,7 @@ logger.addHandler(stream_handler)
 
 #file_handler.setLevel(logging.ERROR)
 
-print("World Vision Virtual Bank Acctnum 5111948 Master LedgerBytes.\n")
+print("[blue] World Vision Virtual Bank Acctnum 5111948 Master LedgerBytes.\n[/blue]")
 print("When asked to make a Ledger/Transaction, you have several options to start.")
 print("clear -> reseting all Ledger/Data.")
 print("yes -> start of main loop.")
@@ -100,7 +102,7 @@ def transaction_option():
     elif change == "withdrawal" or change == "w":
         withdrawMoney()                                        #withdrawMoney()
     elif change == "quit" or change == "exit":
-        print("Exiting Master Ledger Nero Thanks for Banking with Us...")
+        print("[blue] Exiting Master Ledger Nero Thanks for Banking with Us... [/blie]")
         sys.exit()
     else:
         print("Invalid input")
@@ -192,16 +194,23 @@ def transactionLogs(floatCurrent, transactionOccured, floatAddedAmount, newAmoun
     LOG.write("\nNew AcctBalance: " + updatedAmount)
     LOG.write("\nNew AcctBalance: " + updatedAmount)
     LOG.write(noww.strftime('%c-%H-%M-%S.'))
-    LOG.write("Cumalative Account Amount, $12194.00")
+    LOG.write("[red] \nNew Cumalative AcctAmount Spent, $12194.00 [/red]")
 
     h=1
     b=1
     y=1000
-    w=(1/3*664167+664167)
+    w=(1/3*1498281+1498281)
 
     ww=(1/3*1000000+1000000)
     print(h,b,w,ww)
-    print('Future Value Wedge Collateral MilkWays FailSafe')
+    print('[red] Future Value Wedge Collateral MilkWays FailSafe [/red]')
+    print('[green] When a black hole feeds on stars, gas or dust the meal produces jets of GOLD Particles and radiation blasting out [/green]') 
+    print('[green] from the black holes poles at near light speed [/green]') 
+    print('[green] They can extend for thousand of light years into space. Yield 16000 oz x $2700.00/ gold = PV $43.2mil ,FV43.2bln. [/green]')
+
+    print('[blue] worldvisionvirtualbank1@gmail.com [/blue]')
+
+
     #print("Cumalative Account Amount")
 
     #print(10699.00)
@@ -238,11 +247,8 @@ main()                         #main()
 
 # print(matrix, c, 'Container1/1000000 BytesParticles', 'WorldVisionVirtualBank1@gmail.com')
 
-print('When a black hole feeds on stars, gas or dust the meal produces jets of GOLD Particles and radiation blasting out') 
-print('from the black holes poles at near light speed') 
-print('They can extend for thousand of light years into space. Yield 16000 oz x $2700.00/ gold = PV $43.2mil ,FV43.2bln.')
 
-print('worldvisionvirtualbank1@gmail.com')
+
 
 
 
