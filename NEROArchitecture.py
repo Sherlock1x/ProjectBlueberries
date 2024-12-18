@@ -41,6 +41,11 @@ stream_handler.setFormatter(formatter)
 
 logger.addHandler(stream_handler)
 
+logging.basicConfig(filename="Kamala.txt",
+                    filemode='a',
+                    format='%(asctime)s %(levelname)s-%(message)s',
+                    datefmt='%Y-%m-%d %H:%M:%S')
+
 #logging.basicConfig(filename='Ledger.log', level=logging.INFO,
                     #format='%(asctime)s:%(levelname)s:%(message)s')
 
@@ -191,24 +196,54 @@ def transactionLogs(floatCurrent, transactionOccured, floatAddedAmount, newAmoun
     LOG.write("\n\nOld AcctBalance: " + oldAmount)
     LOG.write("\nDepositTransaction Occured: " + transactionType + transactionAmount)
     LOG.write("\nWithdrawalTransaction Occured: " + transactionType + transactionAmount)
-    LOG.write("\nNew AcctBalance: " + updatedAmount)
+    LOG.write("\nNew AcctBalance: + 554.33oz/GLD Collateral = New ACCTBalance $" + updatedAmount)
     LOG.write("\nNew AcctBalance: " + updatedAmount)
     LOG.write(noww.strftime('%c-%H-%M-%S.'))
-    LOG.write("[red] \nNew Cumalative AcctAmount Spent, $12194.00 [/red]")
-
+    LOG.write("[red] \nNew Cumalative AcctPayableAmountXPense, $13961.00 + 554.26oz/GLD Collateral = New ACCTBalance $ [/red]")
+    logger.info("[red] \nNew Cumalative AcctPayableAmountXPense, $13961.00 balance + 554.26oz/GLD Collateral = New ACCTBalance $ [/red]")
+    
     h=1
     b=1
     y=1000
-    w=(1/3*1498281+1498281)
+    w=(1/3*1496514+1496514)  #Pyramid Chain Derivative
+    oz=(1496514/2700)  #updatedAmount in Gold/oz's
 
     ww=(1/3*1000000+1000000)
-    print(h,b,w,ww)
+    print(h,b,w,oz,ww)
+    
     print('[red] Future Value Wedge Collateral MilkWays FailSafe [/red]')
     print('[green] When a black hole feeds on stars, gas or dust the meal produces jets of GOLD Particles and radiation blasting out [/green]') 
     print('[green] from the black holes poles at near light speed [/green]') 
     print('[green] They can extend for thousand of light years into space. Yield 16000 oz x $2700.00/ gold = PV $43.2mil ,FV43.2bln. [/green]')
 
     print('[blue] worldvisionvirtualbank1@gmail.com [/blue]')
+
+    print('[green] Registered Memory Creation GoldByte Particle Element $1,497,497.00 = 554.63 oz/GoldByte Particle Element [/green]') 
+    print('[green] as collateral..Virtual Universe | from M31 Andromeda galaxy [/green]') 
+    print('[green] Light from this galaxy took 2.65 million light years to reach the camera sensor that took this picture. [/green]')
+
+    #https://www.youtube.com/watch?v=DKPRDCAOnXM
+
+
+balance = 13961.00    #Total Cumalative AcctPayableAmount Balance XPense
+while True:
+    try:
+        num = float(input('XPense:'))
+        break
+    except ValueError:
+        print('Must be a valid quantity.')
+
+balance += num
+print(f'Balance:(balance)')
+
+print(balance)
+
+logger.error("[red] \nNew Cumalative AcctAmount XPense, $13056.00 balance += num [/red]")
+
+
+#def transactionLogs(floatCurrent, transactionOccured, floatAddedAmount, newAmount):
+    #LOG = open("Transaction Log.txt", "a")
+    #LOG.write(f'Balance:(balance)',(balance))
 
 
     #print("Cumalative Account Amount")
@@ -246,6 +281,8 @@ main()                         #main()
 # ]
 
 # print(matrix, c, 'Container1/1000000 BytesParticles', 'WorldVisionVirtualBank1@gmail.com')
+
+
 
 
 
