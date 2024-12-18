@@ -303,6 +303,11 @@ Yield = 16000 oz x $2700.00/gold = PV $43.2 Mil x 1000 light years = FV $43.2 Bl
 https://www.youtube.com/watch?v=W7ppd_RY-UE
 Meet Willow, our state-of-the-art quantum chip
 
+Tetrahedron
+A tetrahedron is a three-dimensional shape that has four triangular faces. One of the triangles is considered as the base and the other three triangles together form the pyramid. The tetrahedron is a type of pyramid, which is a polyhedron with triangular faces connecting the base to a common point and a flat polygon base. It has a triangular base and thus it is also referred to as a triangular pyramid. Let us learn more about the tetrahedron shape, a regular tetrahedron, tetrahedron angles, and so on in this article. 3D Pyramid
+
+https://www.cuemath.com/geometry/tetrahedron/
+
 
 
 
