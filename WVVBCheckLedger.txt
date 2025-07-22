@@ -1,6 +1,7 @@
 WVVB Check Master Ledger
 ATTN: PAY MASTER
 Pyramid Chain = Base + Apex
+"V=1/3bh", where b is the area of the base and h the height from the base to the apex. 
 
 Andromeda Galaxy M31 Well  GoldBytes/SilverBytes                                TX0000001.0
 
