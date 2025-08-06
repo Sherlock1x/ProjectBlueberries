@@ -1,0 +1,113 @@
+STARTld AcctBalance: 100.0
+DepositTransaction Occured: +42885076.0
+WithdrawalTransaction Occured: +42885076.0
+New AcctBalance: + 12613.26oz/GLD Collateral = New ACCTBalance $42885176.0
+New AcctBalance: 42885176.0Thu Jul  3 10:14:41 2025-10-14-41.[red] 
+New Cumalative AcctPayableAmountCurrentXPense, $11438.00 + 12613.26oz/GLD Collateral = New ACCTBalance $ [/red]
+
+
+
+
+Old AcctBalance: 42885176.0
+DepositTransaction Occured: -100.0
+WithdrawalTransaction Occured: -100.0
+New AcctBalance: + 12613.26oz/GLD Collateral = New ACCTBalance $42885076.0
+New AcctBalance: 42885076.0Thu Jul  3 10:19:21 2025-10-19-21.[red] 
+New Cumalative AcctPayableAmountCurrentXPense, $11438.00 + 12613.26oz/GLD Collateral = New ACCTBalance $ [/red]
+
+https://www.gold.com/get
+1 1
+(57180101.33333333, '', 'Measurement Pyramid Chain Base Derivative')
+(12613.257647058823, '', 'Gold in ozs=$Value Current Balance Collateral')
+(1333333.3333333333, '', 'Test Function Only')
+(14295025.333333328, '', 'Apex Pyrimid Derivative')
+(42885076, '', 'Cumalative AcctPayable New current Balance$$')
+(11438, '', 'Cumalative AcctPayable Xpense$$')
+(420250.2235294117, '', 'Silver in ozs=$Value Current Balance Collateral')
+42885076
+PLease enter your name:Michael Giannuzzi
+
+<filter object at 0x000001C645C73B50>   memory registration/Title
+
+Old AcctBalance: 42885076.0
+DepositTransaction Occured: +100.0
+WithdrawalTransaction Occured: +100.0
+New AcctBalance: + 12613.26oz/GLD Collateral = New ACCTBalance $42885176.0
+New AcctBalance: 42885176.0Thu Jul  3 12:22:15 2025-12-22-15.[red] 
+New Cumalative AcctPayableAmountCurrentXPense, $11438.00 + 12613.26oz/GLD Collateral = New ACCTBalance $ [/red]
+
+Old AcctBalance: 42885176.0
+DepositTransaction Occured: -100.0
+WithdrawalTransaction Occured: -100.0
+New AcctBalance: + 12613.26oz/GLD Collateral = New ACCTBalance $42885076.0
+New AcctBalance: 42885076.0Thu Jul  3 12:22:49 2025-12-22-49.[red] 
+New Cumalative AcctPayableAmountCurrentXPense, $11438.00 + 12613.26oz/GLD Collateral = New ACCTBalance $ [/red]
+
+#Name : Michael Giannuzzi         Address : 5A Riverview Drive
+
+#Id : 1   ItemName : Elec        Price : 19
+#------------------------------------------------
+#Id : 2   ItemName : E-Gas       Price : 19
+#------------------------------------------------
+#Id : 3   ItemName : Tmoble      Price : 423
+#------------------------------------------------
+#Id : 4   ItemName : Geico       Price : 283
+#------------------------------------------------
+#Id : 5   ItemName : TaxesWvpr   Price : 2834
+#------------------------------------------------
+                #Total : 3578
+
+
+        #Thanks for visiting
+
+
+#Id : 1   ItemName : AcctBal1    Price : 7859
+#------------------------------------------------
+#Id : 2   ItemName : AcctBal2YTD Price : 3579
+#------------------------------------------------
+#                Total : 11438 AcctBal2YTD
+
+
+
+Old AcctBalance: 42885076.0
+DepositTransaction Occured: -845.0
+WithdrawalTransaction Occured: -845.0
+New AcctBalance: + 12613.01oz/GLD Collateral = New ACCTBalance $42884231.0
+New AcctBalance Accretion/Inheritance: 42884231.0Fri Jul 25 08:11:55 2025-08-11-55.[red] 
+New Cumalative AcctPayableAmountCurrentXPense, $12283.00 + 12613.01oz/GLD Collateral = New ACCTBalance $ [/red]
+
+
+1 1
+(57037151.0, '', 'Measurement Pyramid Chain Basex/Apexy Derivative')
+(12613.01, '', 'Gold in ozs=$Value Current Balance Collateral')
+(1333333.3333333333, '', 'Test Function Only')
+(14152075.0, '', 'Apexy Pyrimid Derivative')
+(42884231, '', 'Cumalative AcctPayable New current Balance$$ YTD')   [-6578.00 MTD/Aug6] =  42877653.00
+(12283, '', 'Cumalative AcctPayable Xpense$$ YTD')   18859.00
+(126130.0911764706, '', 'Silver in ozs=$Value Current Balance Collateral')
+42884231   42877653.00
+
+[0, 0, -6578, 42877653]  YTD Aug AcctBalance
+[2725, 3434, 4532, 5022, 6578]  XFood POP WellCare Gas Lotto YTD Xpenses
+[0, 11438, 16520, 17412]  YTD Aug Utilities Taxes/Reg CHC-1 SOSWvprLLC/ XFood etc/ MiscCash AcctXpense
+PS C:\Users\Spect\OneDrive\VSCode-overview> 
+
+
+Pyramid Chain = Base + Apex
+"V=1/3bh", where b is the area of the base and h the height from the base to the apex. 
+
+PLease enter your name:Michael Giannuzzi
+
+<filter object at 0x000001C4AC8C3D90>   memory registration/Title
+
+Automatic Finances with Pythonmain.py  All Withdrawal/Deposit Transaction for August 2025
+
+https://github.com/Sherlock1x/ProjectBlueberries/blob/master/newplot%20-%20Copy.PNG
+
+https://github.com/Sherlock1x/ProjectBlueberries/blob/master/newplot17410.png
+
+Exiting Master Ledger Nero Thanks for Banking with Us...
+
+END
+
+
