@@ -1,5 +1,5 @@
 
-#NERO Architecture Start "Nero-Whale"
+#NERO Architecture Start "Nero-Whale", "Patch 101 for the Dollar"
 
 #https://github.com/JamariCJGoodridge/BasicBankApplication/blob/master/Python%20Saved%20Banking.py
 
@@ -18,6 +18,11 @@
 # "Store of unit value"(souv) effects. Quote: "Stephen Hawking's"
 
 #Automatic Finance with Pythonmain.py All Withdrawal/DepositTransactions MTD/YTD 
+
+#BankData.txt
+#mala.txt
+#NEROLedger.log
+#TransactionLog.txt
 
 import rich
 import math
@@ -62,7 +67,7 @@ logging.basicConfig(filename="Kamala.txt",
 
 #file_handler.setLevel(logging.ERROR)
 
-print("[blue] World Vision Virtual Bank Acctnum 5111948 Master LedgerBytes.\n[/blue]")
+print("[bold][blue] World Vision Virtual Bank Acctnum 5111948 Master LedgerBytes.\n[/blue]")
 print("When asked to make a Ledger/Transaction, you have several options to start.")
 print("clear -> reseting all Ledger/Data.")
 print("yes -> start of main loop.")
@@ -115,7 +120,7 @@ def transaction_option():
     elif change == "withdrawal" or change == "w":
         withdrawMoney()                                        #withdrawMoney()
     elif change == "quit" or change == "exit":
-        print("[blue] Exiting Master Ledger Nero Thanks for Banking with Us... [/blue]")
+        print("[bold][blue] Exiting Master Ledger Nero Thanks for Banking with Us... [/blue]")
         sys.exit()
     else:
         print("Invalid input")
@@ -203,39 +208,39 @@ def transactionLogs(floatCurrent, transactionOccured, floatAddedAmount, newAmoun
     noww = datetime.today()
     LOG.write("\n\nOld AcctBalance: " + oldAmount)
     LOG.write("\nDepositTransaction Occured: " + transactionType + transactionAmount)
-    LOG.write("\nWithdrawalTransaction Occured: " + transactionType + transactionAmount)
-    LOG.write("\nNew AcctBalance: + 12613.26oz/GLD Collateral = New ACCTBalance $" + updatedAmount)
-    LOG.write("\nNew AcctBalance: " + updatedAmount)
+    LOG.write("\nWithdrawalTransaction Occured: " + transactionType + transactionAmount + transactionAmount)   #Updated 8-13-2025
+    LOG.write("\nNew AcctBalance: + 12611.00oz/GLD Collateral = New ACCTBalance $" + updatedAmount)
+    LOG.write("\nNew AcctBalance: "" Accretion/Inheritance " + updatedAmount)
     LOG.write(noww.strftime('%c-%H-%M-%S.'))
-    LOG.write("[red] \nNew Cumalative AcctPayableAmountCurrentXPense, $12283.00 + 12613.26oz/GLD Collateral = New ACCTBalance $ [/red]")
-    logger.info("[red] \nNew Cumalative AcctPayableAmountCurrentXPense, $12283.00 balance + 12613.26oz/GLD Collateral = New ACCTBalance $ [/red]")
+    LOG.write("[red] \nNew Cumalative AcctPayableAmountCurrentXPense, $19101.00 + 12611.00oz/GLD Collateral = New ACCTBalance $ [/red]")
+    logger.info("[bold][red] \nNew Cumalative AcctPayableAmountCurrentXPense, $19101.00 balance + 12611.00oz/GLD Collateral = New ACCTBalance $42877413 [/red]")
     
     h=1
     b=1
     y=1000
-    w=(1/3*42884231+42884231,"",'Measurement Pyramid Chain Basex/Apexy Derivative')  #Measurement Pyramid Chain Base Derivative
-    oz=(42884231/3400.00,"",'Gold in ozs=$Value Current Balance Collateral')   #Quantum Entanglement Particles Higgs Boson Field Electrons 
-    wts=(42884231/3400.00*10,"",'Silver in ozs=$Value Current Balance Collateral')                                                                       # +- measurement  | Gold in oz's = $ Value, Gold.com
+    w=(1/3*42877413+42877413,"",'Measurement Pyramid Chain Basex/Apexy Derivative')  #Measurement Pyramid Chain Base Derivative
+    oz=(42877413/3400.00,"",'Gold in ozs=$Value Current Balance Collateral')   #Quantum Entanglement Particles Higgs Boson Field Electrons 
+    wts=(42877413/3400.00*10,"",'Silver in ozs=$Value Current Balance Collateral')                                                                       # +- measurement  | Gold in oz's = $ Value, Gold.com
     r=requests.head('https://www.gold.com/get')
     print(r.url)                                                                    
 
-    ww=(1/3*1000000+1000000,"",'Test Function Only')
-    q=(1/3*42884231+42884231-42884231,"",'Apexy Pyrimid Derivative')
+    ww=(1/3*1000000+1000000,"",'Parch 101 for the Dollar,"",Test Function Only')
+    q=(1/3*42877413+42877413-42877413,"",'Apexy Pyrimid Derivative')
     #wz=(1987631-1490723,'Delta Derivative Appex Pyramid')   #Delta Derivative Appex Pyramid
-    wt=(42885076-845,"",'Cumalative AcctPayable New current Balance$$ YTD')  #Cumalative AcctPayable Xpense current Balance$$
-    wtt=(845+11438,"",'Cumalative AcctPayable Xpense$$ YTD')    #Cumalative AcctPayable Xpense $$ #"Chapter6-3py", Updating Ledger Log...
+    wt=(42884231-6818,"",'Cumalative AcctPayable New current Balance$$ YTD')  #Cumalative AcctPayable Xpense current Balance$$
+    wtt=(7663+11438,"",'Cumalative AcctPayable Xpense$$ YTD')    #Cumalative AcctPayable Xpense $$ #"Chapter6-3py", Updating Ledger Log...
 
     print(h,b,w,oz,ww,q,wt,wtt,wts)
 
-    numbers = arr.array('i', [440000,450000,460000,470000,42884231])
+    numbers = arr.array('i', [440000,450000,460000,470000,42877413])
 
 
     print(numbers[-1])    # https://www.freecodecamp.org/news/python-slicing-how-to-slice-an-array/
     c = input("PLease enter your name:")
     
-    print('[red] Future Value Wedge Collateral MilkWays FailSafe [/red]')
+    print('[bold][red] Future Value Wedge Collateral MilkWays FailSafe [/red]')
     print(...)
-    print('[green] When a black hole feeds on stars, gas or dust the meal produces jets of GOLD Particles and radiation blasting out [/green]')
+    print('[bold][green] When a black hole feeds on stars, gas or dust the meal produces jets of GOLD Particles and radiation blasting out [/green]')
     print(...) 
     print('[green] from the black holes poles at near light speed [/green]')
     print(...) 
@@ -243,19 +248,19 @@ def transactionLogs(floatCurrent, transactionOccured, floatAddedAmount, newAmoun
     print(...)
 
 
-    print('[blue] worldvisionvirtualbank1@gmail.com [/blue]')
+    print('[bold[yellow] worldvisionvirtualbank1@gmail.com [/yellow]')
     print(...)
 
-    print('[green] Registered Memory Creation GoldByte Particle Element $1,4855076.00 = 3400 oz/GoldByte Particle Element [/green]')
+    print('[bold][yellow] Registered Memory Creation GoldByte Particle Element $42884231.00 = 3400 oz/GoldByte Particle Element [/yellow]')
     print(...) 
-    print('[green] as collateral..Virtual Universe | from M31 Andromeda galaxy [/green]')
+    print('[bold[yellow] as collateral..Virtual Universe | from M31 Andromeda galaxy [/yellow]')
     print(...) 
-    print('[green] Light from this galaxy took 2.65 million light years to reach the camera sensor that took this picture. [/green]')
+    print('[bold][yellow] Light from this galaxy took 2.65 million light years to reach the camera sensor that took this picture. [/yellow]')
 
     #https://www.youtube.com/watch?v=DKPRDCAOnXM
 
 
-balance = 11438.0    #Total Cumalative AcctPayableAmount Current Balance XPense YTD
+balance = 19101.0    #Total Cumalative AcctPayableAmount Current Balance XPense YTD
 while True:
     try:
         num = float(input('XPense:'))
@@ -268,7 +273,7 @@ print(f'Balance:(balance)')
 
 print(balance,"", "[red] Total Cumalative AcctPayableAmount Current Balance XPense[/red]")
 
-logger.error("[red] \nNew Cumalative AcctAmount Current XPense, $12283.00 balance += num [/red]")  #Output  Current Xpense $$$
+logger.error("[red] \nNew Cumalative AcctAmount Current XPense, $19101.00 balance += num [/red]")  #Output  Current Xpense $$$
   
 nums = list(range (1, 100))
 
@@ -288,13 +293,13 @@ def is_prime(n):
     return True
 
 primes = filter(is_prime, nums)   #add list before filter
-print(primes,"","[green] memory registration/Title[/green]")  
+print(primes,"","[green] Memory Registration/Title/Transaction[/green]")  
 
 for i in tqdm(range(0, 100), desc="Text Processing Matrix 10x10 Shape"):    #Progress Bar tqdm
     sleep(0.1)
 
 elems  = ['A', 'B', 'C','D']
-numbers = [42884231, 2, 3, 4]   #New AcctBalance $$ Matrix 10x10 Shape line 312
+numbers = [42877413, 2, 3, 4]   #New AcctBalance $$ Matrix 10x10 Shape line 312
 
 zipped = zip(numbers, elems)
 
@@ -304,6 +309,15 @@ i = 1
 while i < 6:
     print(i)
     i += 1
+
+url=("https://github.com/Sherlock1x/ProjectBlueberries/blob/master/newplot%20-%20Copy.PNG")
+X=url
+show=(X)
+
+url=("https://github.com/Sherlock1x/ProjectBlueberries/blob/master/newplot2.png")
+X=url
+show=(X)
+
 
 #def transactionLogs(floatCurrent, transactionOccured, floatAddedAmount, newAmount):
     #LOG = open("Transaction Log.txt", "a")
@@ -333,14 +347,14 @@ main()                         #main()
 
 # matrix = [
 #       [10000, 20000, 30000, 40000, 50000, 60000, 70000, 80000, 90000, 100000],
-#       [110000, 120000, 130000, 140000, 150000, 160000, 170000, 180000, 190000, 200000],  # $42,484,231.00  col8/row5
+#       [110000, 120000, 130000, 140000, 150000, 160000, 170000, 180000, 190000, 200000],  # $42,877,413.00  col1/row4
 #       [210000, 220000, 230000, 240000, 250000, 260000, 270000, 280000, 290000, 300000],
 #       [310000, 320000, 330000, 340000, 350000, 360000, 370000, 380000, 390000, 400000],  # The Invenite Well
 #       [410000, -420000, 430000, 440000, 450000, 460000, 470000, 480000, 490000, 500000],  # measurement = New AcctBalance
-#       [510000, 520000, 530000, 540000, 550000, 560000, 570000, 580000, 590000, 600000],  # 1216.26 oz GoldBytesParticles
+#       [510000, 520000, 530000, 540000, 550000, 560000, 570000, 580000, 590000, 600000],  # 12611.01 oz GoldBytesParticles
 #       [610000, 620000, 630000, 640000, 650000, 660000, 670000, 680000, 690000, 700000],  #https://www.youtube.com/watch?v=xWb97DEq864
 #       [710000, 720000, 730000, 740000, 750000, 760000, 770000, 780000, 790000, 800000],
-#       [810000, 820000, 830000, 840000, 850000, 860000, 870000, 880000, 890000, 900000],    # 12162.6 oz Silver see above info
+#       [810000, 820000, 830000, 840000, 850000, 860000, 870000, 880000, 890000, 900000],    # 126110.01 oz Silver see above info
 #       [910000, 920000, 930000, 940000, 950000, 960000, 970000, 980000, 990000, 1000000],
 # ]
 
