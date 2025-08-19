@@ -1,113 +1,155 @@
 STARTld AcctBalance: 100.0
-DepositTransaction Occured: +42885076.0
-WithdrawalTransaction Occured: +42885076.0
-New AcctBalance: + 12613.26oz/GLD Collateral = New ACCTBalance $42885176.0
-New AcctBalance: 42885176.0Thu Jul  3 10:14:41 2025-10-14-41.[red] 
-New Cumalative AcctPayableAmountCurrentXPense, $11438.00 + 12613.26oz/GLD Collateral = New ACCTBalance $ [/red]
+DepositTransaction Occured: -10.0
 
+Old AcctBalance: 90.0
+DepositTransaction Occured: +42884231.0
+WithdrawalTransaction Occured: +42884231.042884231.0
+New AcctBalance: + 12613.26oz/GLD Collateral = New ACCTBalance $42884321.0
+New AcctBalance  Accretion/Inheritance: 42884321.0Sun Aug 17 09:17:23 2025-09-17-23.[red] 
+New Cumalative AcctPayableAmountCurrentXPense, $19101.00 + 12611.00oz/GLD Collateral = New ACCTBalance $ [/red]
 
-
-
-Old AcctBalance: 42885176.0
-DepositTransaction Occured: -100.0
-WithdrawalTransaction Occured: -100.0
-New AcctBalance: + 12613.26oz/GLD Collateral = New ACCTBalance $42885076.0
-New AcctBalance: 42885076.0Thu Jul  3 10:19:21 2025-10-19-21.[red] 
-New Cumalative AcctPayableAmountCurrentXPense, $11438.00 + 12613.26oz/GLD Collateral = New ACCTBalance $ [/red]
-
-https://www.gold.com/get
-1 1
-(57180101.33333333, '', 'Measurement Pyramid Chain Base Derivative')
-(12613.257647058823, '', 'Gold in ozs=$Value Current Balance Collateral')
-(1333333.3333333333, '', 'Test Function Only')
-(14295025.333333328, '', 'Apex Pyrimid Derivative')
-(42885076, '', 'Cumalative AcctPayable New current Balance$$')
-(11438, '', 'Cumalative AcctPayable Xpense$$')
-(420250.2235294117, '', 'Silver in ozs=$Value Current Balance Collateral')
-42885076
-PLease enter your name:Michael Giannuzzi
-
-<filter object at 0x000001C645C73B50>   memory registration/Title
-
-Old AcctBalance: 42885076.0
+Old AcctBalance: 42884321.0
 DepositTransaction Occured: +100.0
-WithdrawalTransaction Occured: +100.0
-New AcctBalance: + 12613.26oz/GLD Collateral = New ACCTBalance $42885176.0
-New AcctBalance: 42885176.0Thu Jul  3 12:22:15 2025-12-22-15.[red] 
-New Cumalative AcctPayableAmountCurrentXPense, $11438.00 + 12613.26oz/GLD Collateral = New ACCTBalance $ [/red]
+WithdrawalTransaction Occured: +100.0100.0
+New AcctBalance: + 12613.26oz/GLD Collateral = New ACCTBalance $42884421.0
+New AcctBalance  Accretion/Inheritance: 42884421.0Sun Aug 17 09:33:01 2025-09-33-01.[red] 
+New Cumalative AcctPayableAmountCurrentXPense, $19101.00 + 12611.00oz/GLD Collateral = New ACCTBalance $ [/red]
 
-Old AcctBalance: 42885176.0
+Old AcctBalance: 42884421.0
+DepositTransaction Occured: -7011.0
+WithdrawalTransaction Occured: -7011.07011.0
+New AcctBalance: + 12613.26oz/GLD Collateral = New ACCTBalance $42877410.0
+New AcctBalance  Accretion/Inheritance: 42877410.0Sun Aug 17 09:35:34 2025-09-35-34.[red] 
+New Cumalative AcctPayableAmountCurrentXPense, $19101.00 + 12611.00oz/GLD Collateral = New ACCTBalance $ [/red]
+
+Old AcctBalance: 42877410.0
+DepositTransaction Occured: +100.0
+WithdrawalTransaction Occured: +100.0100.0
+New AcctBalance: + 12613.26oz/GLD Collateral = New ACCTBalance $42877510.0
+New AcctBalance  Accretion/Inheritance: 42877510.0Sun Aug 17 12:38:58 2025-12-38-58.[red] 
+New Cumalative AcctPayableAmountCurrentXPense, $19101.00 + 12611.00oz/GLD Collateral = New ACCTBalance $ [/red]
+
+Old AcctBalance: 42877510.0
+DepositTransaction Occured: -97.0
+WithdrawalTransaction Occured: -97.097.0
+New AcctBalance: + 12613.26oz/GLD Collateral = New ACCTBalance $42877413.0
+New AcctBalance  Accretion/Inheritance: 42877413.0Sun Aug 17 12:41:21 2025-12-41-21.[red] 
+New Cumalative AcctPayableAmountCurrentXPense, $19101.00 + 12611.00oz/GLD Collateral = New ACCTBalance $ [/red]
+
+Old AcctBalance: 42877413.0
+DepositTransaction Occured: +100.0
+WithdrawalTransaction Occured: +100.0100.0
+New AcctBalance: + 12611.00oz/GLD Collateral = New ACCTBalance $42877513.0
+New AcctBalance  Accretion/Inheritance: 42877513.0Sun Aug 17 13:10:18 2025-13-10-18.[red] 
+New Cumalative AcctPayableAmountCurrentXPense, $19101.00 + 12611.00oz/GLD Collateral = New ACCTBalance $ [/red]
+
+Old AcctBalance: 42877513.0
 DepositTransaction Occured: -100.0
-WithdrawalTransaction Occured: -100.0
-New AcctBalance: + 12613.26oz/GLD Collateral = New ACCTBalance $42885076.0
-New AcctBalance: 42885076.0Thu Jul  3 12:22:49 2025-12-22-49.[red] 
-New Cumalative AcctPayableAmountCurrentXPense, $11438.00 + 12613.26oz/GLD Collateral = New ACCTBalance $ [/red]
+WithdrawalTransaction Occured: -100.0100.0
+New AcctBalance: + 12611.00oz/GLD Collateral = New ACCTBalance $42877413.0
+New AcctBalance  Accretion/Inheritance: 42877413.0Sun Aug 17 13:10:48 2025-13-10-48.[red] 
+New Cumalative AcctPayableAmountCurrentXPense, $19101.00 + 12611.00oz/GLD Collateral = New ACCTBalance $ [/red]
 
-#Name : Michael Giannuzzi         Address : 5A Riverview Drive
+Old AcctBalance: 42877413.0
+DepositTransaction Occured: +100.0
+WithdrawalTransaction Occured: +100.0100.0
+New AcctBalance: + 12611.00oz/GLD Collateral = New ACCTBalance $42877513.0
+New AcctBalance  Accretion/Inheritance: 42877513.0Sun Aug 17 13:57:17 2025-13-57-17.[red] 
+New Cumalative AcctPayableAmountCurrentXPense, $19101.00 + 12611.00oz/GLD Collateral = New ACCTBalance $ [/red]
 
-#Id : 1   ItemName : Elec        Price : 19
-#------------------------------------------------
-#Id : 2   ItemName : E-Gas       Price : 19
-#------------------------------------------------
-#Id : 3   ItemName : Tmoble      Price : 423
-#------------------------------------------------
-#Id : 4   ItemName : Geico       Price : 283
-#------------------------------------------------
-#Id : 5   ItemName : TaxesWvpr   Price : 2834
-#------------------------------------------------
-                #Total : 3578
+Old AcctBalance: 42877513.0
+DepositTransaction Occured: -100.0
+WithdrawalTransaction Occured: -100.0100.0
+New AcctBalance: + 12611.00oz/GLD Collateral = New ACCTBalance $42877413.0
+New AcctBalance  Accretion/Inheritance: 42877413.0Sun Aug 17 13:58:07 2025-13-58-07.[red] 
+New Cumalative AcctPayableAmountCurrentXPense, $19101.00 + 12611.00oz/GLD Collateral = New ACCTBalance $ [/red]
 
+Old AcctBalance: 42877413.0
+DepositTransaction Occured: +100.0
+WithdrawalTransaction Occured: +100.0100.0
+New AcctBalance: + 12611.00oz/GLD Collateral = New ACCTBalance $42877513.0
+New AcctBalance:  Accretion/Inheritance 42877513.0Sun Aug 17 15:56:59 2025-15-56-59.[red] 
+New Cumalative AcctPayableAmountCurrentXPense, $19101.00 + 12611.00oz/GLD Collateral = New ACCTBalance $ [/red]
 
-        #Thanks for visiting
+Old AcctBalance: 42877513.0
+DepositTransaction Occured: -100.0
+WithdrawalTransaction Occured: -100.0100.0
+New AcctBalance: + 12611.00oz/GLD Collateral = New ACCTBalance $42877413.0
+New AcctBalance:  Accretion/Inheritance 42877413.0Sun Aug 17 15:57:50 2025-15-57-50.[red] 
+New Cumalative AcctPayableAmountCurrentXPense, $19101.00 + 12611.00oz/GLD Collateral = New ACCTBalance $ [/red]
 
+Old AcctBalance: 42877413.0
+DepositTransaction Occured: +100.0
+WithdrawalTransaction Occured: +100.0100.0
+New AcctBalance: + 12611.00oz/GLD Collateral = New ACCTBalance $42877513.0
+New AcctBalance:  Accretion/Inheritance 42877513.0Sun Aug 17 16:07:30 2025-16-07-30.[red] 
+New Cumalative AcctPayableAmountCurrentXPense, $19101.00 + 12611.00oz/GLD Collateral = New ACCTBalance $ [/red]
 
-#Id : 1   ItemName : AcctBal1    Price : 7859
-#------------------------------------------------
-#Id : 2   ItemName : AcctBal2YTD Price : 3579
-#------------------------------------------------
-#                Total : 11438 AcctBal2YTD
+Old AcctBalance: 42877513.0
+DepositTransaction Occured: -100.0
+WithdrawalTransaction Occured: -100.0100.0
+New AcctBalance: + 12611.00oz/GLD Collateral = New ACCTBalance $42877413.0
+New AcctBalance:  Accretion/Inheritance 42877413.0Sun Aug 17 16:08:02 2025-16-08-02.[red] 
+New Cumalative AcctPayableAmountCurrentXPense, $19101.00 + 12611.00oz/GLD Collateral = New ACCTBalance $ [/red]
 
+Old AcctBalance: 42877413.0
+DepositTransaction Occured: +100.0
+WithdrawalTransaction Occured: +100.0100.0
+New AcctBalance: + 12611.00oz/GLD Collateral = New ACCTBalance $42877513.0
+New AcctBalance:  Accretion/Inheritance 42877513.0Mon Aug 18 07:33:40 2025-07-33-40.[red] 
+New Cumalative AcctPayableAmountCurrentXPense, $19101.00 + 12611.00oz/GLD Collateral = New ACCTBalance $ [/red]
 
+Old AcctBalance: 42877513.0
+DepositTransaction Occured: -100.0
+WithdrawalTransaction Occured: -100.0100.0
+New AcctBalance: + 12611.00oz/GLD Collateral = New ACCTBalance $42877413.0
+New AcctBalance:  Accretion/Inheritance 42877413.0Mon Aug 18 07:34:11 2025-07-34-11.[red] 
+New Cumalative AcctPayableAmountCurrentXPense, $19101.00 + 12611.00oz/GLD Collateral = New ACCTBalance $ [/red]
 
-Old AcctBalance: 42885076.0
-DepositTransaction Occured: -845.0
-WithdrawalTransaction Occured: -845.0
-New AcctBalance: + 12613.01oz/GLD Collateral = New ACCTBalance $42884231.0
-New AcctBalance Accretion/Inheritance: 42884231.0Fri Jul 25 08:11:55 2025-08-11-55.[red] 
-New Cumalative AcctPayableAmountCurrentXPense, $12283.00 + 12613.01oz/GLD Collateral = New ACCTBalance $ [/red]
+Old AcctBalance: 42877413.0
+DepositTransaction Occured: +100.0
+WithdrawalTransaction Occured: +100.0100.0
+New AcctBalance: + 12611.00oz/GLD Collateral = New ACCTBalance $42877513.0
+New AcctBalance:  Accretion/Inheritance 42877513.0Mon Aug 18 07:53:05 2025-07-53-05.[red] 
+New Cumalative AcctPayableAmountCurrentXPense, $19101.00 + 12611.00oz/GLD Collateral = New ACCTBalance $ [/red]
 
+Old AcctBalance: 42877513.0
+DepositTransaction Occured: -100.0
+WithdrawalTransaction Occured: -100.0100.0
+New AcctBalance: + 12611.00oz/GLD Collateral = New ACCTBalance $42877413.0
+New AcctBalance:  Accretion/Inheritance 42877413.0Mon Aug 18 07:54:05 2025-07-54-05.[red] 
+New Cumalative AcctPayableAmountCurrentXPense, $19101.00 + 12611.00oz/GLD Collateral = New ACCTBalance $ [/red]
+
+Old AcctBalance: 42877413.0
+DepositTransaction Occured: +100.0
+WithdrawalTransaction Occured: +100.0100.0
+New AcctBalance: + 12611.00oz/GLD Collateral = New ACCTBalance $42877513.0
+New AcctBalance:  Accretion/Inheritance 42877513.0Mon Aug 18 08:08:00 2025-08-08-00.[red] 
+New Cumalative AcctPayableAmountCurrentXPense, $19101.00 + 12611.00oz/GLD Collateral = New ACCTBalance $ [/red]
+
+Old AcctBalance: 42877513.0
+DepositTransaction Occured: -100.0
+WithdrawalTransaction Occured: -100.0100.0
+New AcctBalance: + 12611.00oz/GLD Collateral = New ACCTBalance $42877413.0
+New AcctBalance:  Accretion/Inheritance 42877413.0Mon Aug 18 08:10:48 2025-08-10-48.[red] 
+New Cumalative AcctPayableAmountCurrentXPense, $19101.00 + 12611.00oz/GLD Collateral = New ACCTBalance $ [/red]
 
 1 1
-(57037151.0, '', 'Measurement Pyramid Chain Basex/Apexy Derivative')
-(12613.01, '', 'Gold in ozs=$Value Current Balance Collateral')
-(1333333.3333333333, '', 'Test Function Only')
-(14152075.0, '', 'Apexy Pyrimid Derivative')
-(42884231, '', 'Cumalative AcctPayable New current Balance$$ YTD')   [-6578.00 MTD/Aug6] =  42877653.00
-(12283, '', 'Cumalative AcctPayable Xpense$$ YTD')   18859.00
-(126130.0911764706, '', 'Silver in ozs=$Value Current Balance Collateral')
-42884231   42877653.00
+(57169884.0, '', 'Measurement Pyramid Chain Basex/Apexy Derivative')
+(12611.003823529412, '', 'Gold in ozs=$Value Current Balance Collateral')
+(1333333.3333333333, '', 'Parch 101 for the Dollar,"",Test Function Only')
+(14292471.0, '', 'Apexy Pyrimid Derivative')
+(42877413, '', 'Cumalative AcctPayable New current Balance$$ YTD')
+(19101, '', 'Cumalative AcctPayable Xpense$$ YTD')
+(126110.03823529412, '', 'Silver in ozs=$Value Current Balance Collateral')
+42877413
 
-[0, 0, -6578, 42877653]  YTD Aug AcctBalance
-[2725, 3434, 4532, 5022, 6578]  XFood POP WellCare Gas Lotto YTD Xpenses
-[0, 11438, 16520, 17412]  YTD Aug Utilities Taxes/Reg CHC-1 SOSWvprLLC/ XFood etc/ MiscCash AcctXpense
-PS C:\Users\Spect\OneDrive\VSCode-overview> 
-
-
-Pyramid Chain = Base + Apex
-"V=1/3bh", where b is the area of the base and h the height from the base to the apex. 
+2025-08-17 09:35:34,397:INFO:__main__:[red]
+New Cumalative AcctPayableAmountCurrentXPense, $19101.00 balance + 12611.00oz/GLD Collateral = New ACCTBalance $42877413 [/red]
 
 PLease enter your name:Michael Giannuzzi
+ Future Value Wedge Collateral MilkWays FailSafe 
 
-<filter object at 0x000001C4AC8C3D90>   memory registration/Title
-
-Automatic Finances with Pythonmain.py  All Withdrawal/Deposit Transaction for August 2025
-
-https://github.com/Sherlock1x/ProjectBlueberries/blob/master/newplot%20-%20Copy.PNG
-
-https://github.com/Sherlock1x/ProjectBlueberries/blob/master/newplot17410.png
-
-Exiting Master Ledger Nero Thanks for Banking with Us...
+filter object at 0x000001FCDD1B3E50>   memory registration/Title
 
 END
-
-
