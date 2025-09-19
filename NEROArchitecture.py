@@ -216,43 +216,50 @@ def transactionLogs(floatCurrent, transactionOccured, floatAddedAmount, newAmoun
     LOG.write("\n\nOld AcctBalance: " + oldAmount)
     LOG.write("\nDepositTransaction Occured: " + transactionType + transactionAmount)
     LOG.write("\nWithdrawalTransaction Occured: " + transactionType + transactionAmount + transactionAmount)   #Updated 8-13-2025
-    LOG.write("\nNew AcctBalance: + 23522.790oz/GLD Collateral = Basex New ACCTBalance $" + updatedAmount)
+    LOG.write("\nNew AcctBalance: + 32621.81 oz/GLD Collateral = Basex New ACCTBalance $" + updatedAmount)
     LOG.write("\nNew AcctBalance: "" Basex Accretion/Inheritance " + updatedAmount)
     LOG.write(noww.strftime('%c-%H-%M-%S.'))
-    LOG.write("[red] \nNew Cumalative AcctPayableAmountCurrentXPense, $19101.00 +23522.79 oz/GLD Collateral = Pyramidzxy New ACCTBalance $$84682042 [/red]")
-    logger.info("[bold][red] \nNew Cumalative AcctPayableAmountCurrentXPense, $19101.00 balance + 23522.79 oz/GLD Collateral = New Basex ACCTBalance $63527413 [/red]")
+    LOG.write("[red] \nNew Cumalative AcctPayableAmountCurrentXPense, $20981.00 +32621.81 oz/GLD Collateral = Pyramidzxy New ACCTBalance $$120700710 [/red]")
+    logger.info("[bold][red] \nNew Cumalative AcctPayableAmountCurrentXPense, $20981.00 balance + 32621.81 oz/GLD Collateral = New Basex ACCTBalance $120700710 [/red]")
+
+    #Economic Measurements transactionLogs
     
-    h=(21154629/3700,"",'Gold in ozs = Economic Measurement Apexy SVAlue Current Balance Collayeral YTD')
-    print(...)
-    b=(84682042/3700,"",'Gold in ozs = Economic Measurement Pyramidzxy $$Value Current Balance Collateral YTD')
-    print(...)
-    y=(84682042-1800,"", 'Economic Measurement Pyramidzxy $$Value Current Balance YTD')
-    print(...)
-    w=(1/3*42877413+42877413,"",'Economic Measurement Pyramidxxy Chain Basex/Apexy Derivative')  #Measurement Pyramid Chain Base Derivative
-    print(...)   
-    oz=(42877413/3700.00,"",'Gold in ozs= Basex $Value Current Balance Collateral')   #Quantum Entanglement Particles Higgs Boson Field Electrons 
-    print(...)
-    wts=(42877413/3700.00*10,"",'Silver in ozs= Basex $Value Current Balance Collateral')  
-    print(...)                                                                     # +- measurement  | Gold in oz's = $ Value, Gold.com
+    h=(30175177/3700,"",'h Gold in ozs = Economic Measurement Apexy SVAlue Current Balance Collayeral YTD')
+    print()
+    b=(120700710/3700,"",'b Gold in ozs = Economic Measurement WellMx Pyramidzxy $$Value Current Balance Collateral YTD')
+    print()
+    c=(241401420/6400,"",'c Gold in ozs = Economic Measurement Pyramidzxy $$Value Future Value Current Balance Collateral YTD')
+    print()
+    #y=(84682042-1880,"", 'Economic Measurement Pyramidzxy $$Value Current Balance YTD')
+    print()
+    w=(1/3*90525533+90525533,"",'w Economic Measurement WellMx Pyramidxxy Chain Basex/Apexy Derivative')  #Measurement Pyramid Chain Base Derivative
+    print()   
+    oz=(90525533/3700.00,"",'oz Gold in ozs= WellMx Basex $Value Current Balance Collateral')   #Quantum Entanglement Particles Higgs Boson Field Electrons 
+    print()
+    wts=(90525533/3700.00*10,"",'wts Silver in ozs= Basex $Value Current Balance Collateral')  
+    print()                                                                     # +- measurement  | Gold in oz's = $ Value, Gold.com
     r=requests.head('https://www.gold.com/get')
     print(r.url)                                                                    
 
-    ww=(1/3*1000000+1000000,"",'Parch 101 for the Dollar,"",Test Function Only')
-    print(...)
-    q=(1/3*42877413+42877413-42877413,"",'Apexy Pyrimid Derivative')
-    print(...)
+    ww=(1/3*1000000+1000000*1000,"",'ww Parch 101 for the Dollar,"",Test Function Only')
+    print()
+    q=(1/3*90525533+90525533-90525533,"",'q Apexy WellMx Pyrimid Derivative')
+    print()
     #wz=(1987631-1490723,'Delta Derivative Appex Pyramid')   #Delta Derivative Appex Pyramid
-    print(...)
-    wt=(63527413-1877,"",'Basex Cumalative AcctPayable New current Balance$$ MTD')  #Cumalative AcctPayable Xpense current Balance$$
-    print(...)
-    wtt=(1877+19101,"",'Cumalative AcctPayable Xpense$$ YTD')    #Cumalative AcctPayable Xpense $$ #"Chapter6-3py", Updating Ledger Log...
-    print(...)
-    fv=(84682042*2,"",'Economic Measurement Future $$Value Pyramidzxy Accretion and Inheritance')
-    print(...)
+    print()
+    wt=(90525533-0,"",'wt WellMx Basex Withdrawel Cumalative AcctPayable New current Balance$$ MTD')  #Cumalative AcctPayable Xpense current Balance$$
+    print()
+    wtt=(1880+19101,"",'wtt WellMx Cumalative AcctPayable Xpense$$ YTD')    #Cumalative AcctPayable Xpense $$ #"Chapter6-3py", Updating Ledger Log...
+    print()
+    fv=(120700710*2,"",'fv Economic Measurement Future $$Value Pyramidzxy Accretion and Inheritance')
+    print()
+    d=(63525533+27000000,"","[bold green]d WellMx Deposit AcctRec[/green]")
+    print()
+    j=(90525533+30175177,"","[bold yellow]j WellMx Pyramidzxy AcctPay Apexy and Basex[/yellow]")
 
-    print(h,b,y,w,oz,ww,q,wt,wtt,wts,fv)
+    print(h,b,c,w,oz,ww,q,wt,wtt,wts,fv,d,j)
 
-    numbers = arr.array('i', [59000000,60000000,61000000,62000000,63527413])  #Basex
+    numbers = arr.array('i', [86000000,87000000,88000000,89000000,90525533])  #Basex
 
 
     print(numbers[-1])    # https://www.freecodecamp.org/news/python-slicing-how-to-slice-an-array/
@@ -264,14 +271,14 @@ def transactionLogs(floatCurrent, transactionOccured, floatAddedAmount, newAmoun
     print(...) 
     print('[green] from the black holes poles at near light speed [/green]')
     print(...) 
-    print('[green] They can extend for thousand of light years into space. Yield 84682042 oz / $3700.00/ gold = PV $84.7 mil ,FV X.0bln. [/green]')
+    print('[green] They can extend for thousand of light years into space. Yield 90525533 oz / $3700.00/ gold = PV $90.5 mil ,FV X.0bln. [/green]')
     print(...)
 
 
     print('[bold[yellow] worldvisionvirtualbank1@gmail.com [/yellow]')
     print(...)
 
-    print('[bold][yellow] Registered Memory Creation GoldByte Particle Element $84682042.00 = 3700 oz/GoldByte Particle Element [/yellow]')
+    print('[bold][yellow] Registered Memory Creation GoldByte Particle Element $84700710.0 = 3700 oz/GoldByte Particle Element [/yellow]')
     print(...) 
     print('[bold[yellow] as collateral..Virtual Universe | from M31 Andromeda galaxy [/yellow]')
     print(...) 
@@ -280,7 +287,7 @@ def transactionLogs(floatCurrent, transactionOccured, floatAddedAmount, newAmoun
     #https://www.youtube.com/watch?v=DKPRDCAOnXM
 
 
-balance = 19101.0    #Total Cumalative AcctPayableAmount Current Balance XPense YTD
+balance = 20981.0    #Total Cumalative AcctPayableAmount Current Balance XPense YTD
 while True:
     try:
         num = float(input('XPense:'))
@@ -293,7 +300,7 @@ print(f'Balance:(balance)')
 
 print(balance,"", "[bold red] Total Cumalative AcctPayableAmount Current Balance XPense")
 
-logger.error("[bold red] \nNew Cumalative AcctAmount Current XPense, $19101.00 balance += num [/red]")  #Output  Current Xpense $$$
+logger.error("[bold red] \nNew Cumalative AcctAmount Current XPense, $20981.00 balance += num [/red]")  #Output  Current Xpense $$$
   
 nums = list(range (1, 100))
 
@@ -319,11 +326,11 @@ for i in tqdm(range(0, 100), desc="Text Processing Matrix 10x10 Shape"):    #Pro
     sleep(0.1)
 
 elems  = ['A YTD Basex AcctBal', 'B YTD Gold ozs', 'C YTD AcctPay','D YTD Apexy', 'E YTD Pyramidzxy Chain']
-numbers = [63527413, 23522.79, 19101, 21154629, 84682042]   #New AcctBalance $$ Matrix 10x10 Shape line 312
+numbers = [90525533, 24466.36, 20981, 30175177, 120700710]   #New AcctBalance $$ Matrix 10x10 Shape line 312
 
 zipped = zip(numbers, elems)
 
-console.print("([bold yellow] '63527413 A YTD Basex AcctBal' "", '23522.79 B YTD Gold ozs' "", '19101 C YTD AcctPay' "", '21154629 D YTD Apexy' "", '84682042 E YTD Pyramidzxy Chain')")
+console.print("([bold yellow] '90525533 A YTD Basex AcctBal' "", '24466.36 B YTD Gold ozs' "", '20981 C YTD AcctPay' "", '30175177 D YTD Apexy' "", '120700710 E YTD Pyramidzxy Chain')")
 console.print()
 
 print(list(zipped))
@@ -335,6 +342,10 @@ while i < 6:
 
 url=("https://github.com/Sherlock1x/ProjectBlueberries/blob/master/newplot%20-%20Copy.PNG")
 X=url
+show=(X)
+
+url=("https://github.com/Sherlock1x/ProjectBlueberries/blob/master/newplotSept25.png")
+x=url
 show=(X)
 
 url=("https://github.com/Sherlock1x/ProjectBlueberries/blob/master/newplot2.png")
@@ -363,7 +374,7 @@ im_rotate = im.rotate(0)
 im_rotate.show()
 
 im = Image.open("C:\\Users\\Spect\\OneDrive\\VSCode-overview\\Blueberries\\!!!!!!!!!!!!!!!AndromedaGalaxy1.gif")
-im_rotate = im.rotate(0)
+im_rotate = im.rotate(360)
 im_rotate.show()
 
 
@@ -395,14 +406,14 @@ main()                         #main()
 
 # matrix = [
 #       [10000, 20000, 30000, 40000, 50000, 60000, 70000, 80000, 90000, 100000],
-#       [110000, 120000, 130000, 140000, 150000, 160000, 170000, 180000, 190000, 200000],  # $42,877,413.00  col1/row4
-#       [210000, 220000, 230000, 240000, 250000, 260000, 270000, 280000, 290000, 300000],
+#       [110000, 120000, 130000, 140000, 150000, 160000, 170000, 180000, 190000, 200000],  # $63,525,533.00 Basex  col2/row6
+#       [210000, 220000, 230000, 240000, 250000, 260000, 270000, 280000, 290000, 300000],  # $$84,679,535.00  Pyramidzxy
 #       [310000, 320000, 330000, 340000, 350000, 360000, 370000, 380000, 390000, 400000],  # The Invenite Well
-#       [410000, -420000, 430000, 440000, 450000, 460000, 470000, 480000, 490000, 500000],  # Economic measurement = New AcctBalance
-#       [510000, 520000, 530000, 540000, 550000, 560000, 570000, 580000, 590000, 600000],  # 12611.01 oz GoldBytesParticles
-#       [610000, 620000, 630000, 640000, 650000, 660000, 670000, 680000, 690000, 700000],  #https://www.youtube.com/watch?v=xWb97DEq864
+#       [410000, 420000, 430000, 440000, 450000, 460000, 470000, 480000, 490000, 500000],  # Economic measurement = New AcctBalance
+#       [510000, 520000, 530000, 540000, 550000, 560000, 570000, 580000, 590000, 600000],  # 22886.36oz GoldBytesParticles
+#       [610000, 620000, *630000, 640000, 650000, 660000, 670000, 680000, 690000, 700000],  #https://www.youtube.com/watch?v=xWb97DEq864
 #       [710000, 720000, 730000, 740000, 750000, 760000, 770000, 780000, 790000, 800000],
-#       [810000, 820000, 830000, 840000, 850000, 860000, 870000, 880000, 890000, 900000],    # 126110.01 oz Silver see above info
+#       [810000, 820000, 830000, 840000, 850000, 860000, 870000, 880000, 890000, 900000],    # 228863.60 oz Silver see above info
 #       [910000, 920000, 930000, 940000, 950000, 960000, 970000, 980000, 990000, 1000000],
 # ]
 
