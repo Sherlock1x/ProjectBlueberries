@@ -153,3 +153,142 @@ PLease enter your name:Michael Giannuzzi
 filter object at 0x000001FCDD1B3E50>   memory registration/Title
 
 END
+
+
+Old AcctBalance: 42877413.0
+DepositTransaction Occured: +1372587.0
+WithdrawalTransaction Occured: +1372587.01372587.0
+New AcctBalance: + 12291.67oz/GLD Collateral = New ACCTBalance $44250000.0
+New AcctBalance:  Accretion/Inheritance 44250000.0Wed Sep  3 09:59:58 2025-09-59-58.[red] 
+New Cumalative AcctPayableAmountCurrentXPense, $19101.00 + 12291.67oz/GLD Collateral = New ACCTBalance $ [/red]
+
+END
+
+
+
+
+
+Old AcctBalance: 44250000.0
+DepositTransaction Occured: +19277413.0
+WithdrawalTransaction Occured: +19277413.019277413.0
+New AcctBalance: + 23522.790oz/GLD Collateral = New Basex ACCTBalance $63527413.0
+New AcctBalance:  Basex Accretion/Inheritance 63527413.0Wed Sep  3 12:33:55 2025-12-33-55.[red] 
+New Cumalative AcctPayableAmountCurrentXPense, $19101.00 +23522.79 oz/GLD Collateral = New Pyramidzxy ACCTBalance $$84682042 [/red]
+
+Total Deposit $20,650000.00
+
+END
+
+4-Sep-25	Eversource	100.66	AED	Debit	SETTLED
+4-Sep-25	Evergas	19.5	AED	Debit	SETTLED
+9-Sep-25	Tmoble	423.43	AED	Debit	SETTLED
+9-Sep-25	Geico	284	AED	Debit	SETTLED
+11-Sep-25	Riverbank	20	AED	Debit	SETTLED
+15-Sep-25	Cwc	188.2	AED	Debit	SETTLED
+26-Sep-25	Areg	53	AED	Debit	SETTLED
+30-Sep-25	Xfood	587	AED	Debit	SETTLED
+30-Sep-25	W-Care	29	AED	Debit	SETTLED
+30-Sep-25	CarGas	70	AED	Debit	SETTLED
+30-Sep-25	X Cash	129	AED	Debit	SETTLED
+30-Sep-25	YTDPay	20981	AED	Credit	SETTLED
+30-Sep-25	Balance	84700710	AED	Credit	SETTLED
+30-Sep-25	MTDPay	1880	AED	Credit	SETTLED
+
+
+Old AcctBalance: 63527413.0
+DepositTransaction Occured: -1880.0
+WithdrawalTransaction Occured: -1880.01880.0
+New AcctBalance: + 22886.36 oz/GLD Collateral = Basex New ACCTBalance $63525533.0
+New AcctBalance:  Basex Accretion/Inheritance 63525533.0Wed Sep 17 08:39:41 2025-08-39-41.[red] 
+New Cumalative AcctPayableAmountCurrentXPense, $20981.00 +22886.36 oz/GLD Collateral = Pyramidzxy New ACCTBalance $$84700710 [/red]
+
+(5717.2978378378375, '', 'Gold in ozs = Economic Measurement Apexy SVAlue Current Balance Collayeral YTD')
+(22892.08081081081, '', 'Gold in ozs = Economic Measurement Pyramidzxy $$Value Current Balance Collateral YTD')
+(26468.9746875, '', 'Gold in ozs = Economic Measurement Pyramidzxy $$Value Future Value Current Balance Collateral YTD')
+(84700710.66666666, '', 'Economic Measurement Pyramidxxy Chain Basex/Apexy Derivative')
+(17169.062972972974, '', 'Gold in ozs= Basex $Value Current Balance Collateral')
+(1333333.3333333333, '', 'Parch 101 for the Dollar,"",Test Function Only')
+(21175177.666666657, '', 'Apexy Pyrimid Derivative')
+(63525533, '', 'Basex Cumalative AcctPayable New current Balance$$ MTD')
+(20981, '', 'Cumalative AcctPayable Xpense$$ YTD')
+(171690.62972972973, '', 'Silver in ozs= Basex $Value Current Balance Collateral')
+(169401420, '', 'Economic Measurement Future $$Value Pyramidzxy Accretion and Inheritance')
+
+63525533
+
+<filter object at 0x000001FB051434C0>   Memory Registration/Title/Transaction
+
+PLease enter your name:Micheal Giannuzzi
+
+Exiting Master Ledger 'Q' Nero Thanks for Banking with Us... 
+
+END
+
+Date 9/18/2025
+
+(90525533, '', '[bold green]WellMx Deposit AcctRec[/green]')
+
+#(241401420, '', 'Economic Measurement Future $$Value Pyramidzxy Accretion and Inheritance')
+
+#(244663.6027027027, '', 'Silver in ozs= Basex $Value Current Balance Collateral')
+
+(20981, '', 'WellMx Cumalative AcctPayable Xpense$$ YTD')
+
+(90525533, '', 'WellMx Basex Withdrawel Cumalative AcctPayable New current Balance$$ MTD')
+
+(30175177.666666657, '', 'WellMx Apexy Pyrimidzxy Derivative')
+
+#(1333333.3333333333, '', 'Parch 101 for the Dollar,"",Test Function Only')
+
+(24466.36027027027, '', 'Gold in ozs= Basex WellMx $Value Current Balance Collateral')
+
+(120700710.66666666, '', 'Economic Measurement WellMx Pyramidxxy Chain Basex/Apexy Derivative')
+
+#(193968.971875, '', 'Gold in ozs = Economic Measurement Pyramidzxy $$Value Future Value Current Balance Collateral YTD')
+
+(32621.813513513513, '', 'Gold in ozs = Economic Measurement WellMx Pyramidzxy $$Value Current Balance Collateral YTD')
+
+#(8155.453243243243, '', 'Gold in ozs = Economic Measurement Apexy SVAlue Current Balance Collayeral YTD')
+
+(120700710, '', '[bold yellow] WellMx Pyramidzxy AcctPay Apexy and Basex[/yellow]')
+
+END 
+
+
+
+Total Deposit $27000000.00
+
+Old AcctBalance: 63525533.0
+DepositTransaction Occured: +27000000.0
+WithdrawalTransaction Occured: +27000000.027000000.0
+New AcctBalance: + 22886.36 oz/GLD Collateral = Basex New ACCTBalance $90525533.0
+New AcctBalance:  Basex Accretion/Inheritance 90525533.0Thu Sep 18 15:17:49 2025-15-17-49.[red] 
+New Cumalative AcctPayableAmountCurrentXPense, $20981.00 +22886.36 oz/GLD Collateral = Pyramidzxy New ACCTBalance $$120700710 [/red]
+
+Old AcctBalance: 90525533.0
+DepositTransaction Occured: +1.0
+WithdrawalTransaction Occured: +1.01.0
+New AcctBalance: + 32621.81oz/GLD Collateral = Basex New ACCTBalance $90525534.0
+New AcctBalance:  Basex Accretion/Inheritance 90525534.0Thu Sep 18 15:20:13 2025-15-20-13.[red] 
+New Cumalative AcctPayableAmountCurrentXPense, $20981.00 +32621.81 oz/GLD Collateral = Pyramidzxy New ACCTBalance $$120700710 [/red]
+
+
+(8155.45, "", 'h Gold in ozs = Economic Measurement Apexy SVAlue Current Balance Collayeral YTD')
+(32621.813513513513, '', 'b Gold in ozs = Economic Measurement WellMx Pyramidzxy $$Value Current Balance Collateral YTD')
+(37718.971875, '', 'c Gold in ozs = Economic Measurement Pyramidzxy $$Value Future Value Current Balance Collateral YTD')
+(120700710.66666666, '', 'w Economic Measurement WellMx Pyramidxxy Chain Basex/Apexy Derivative')
+(24466.36027027027, '', 'oz Gold in ozs= WellMx Basex $Value Current Balance Collateral')
+(1000333333.3333334, '', 'ww Parch 101 for the Dollar,"",Test Function Only')
+(30175177.666666657, '', 'q Apexy WellMx Pyrimid Derivative')
+(90525533, '', 'wt WellMx Basex Withdrawel Cumalative AcctPayable New current Balance$$ MTD')
+(20981, '', 'wtt WellMx Cumalative AcctPayable Xpense$$ YTD') "
+(244663.6027027027, '', 'wts Silver in ozs= Basex $Value Current Balance Collateral')
+(241401420, '', 'fv Economic Measurement Future $$Value Pyramidzxy Accretion and Inheritance')
+(90525533, '', '[bold green]d WellMx Deposit AcctRec[/green]')
+(120700710, "", "[bold yellow]j WellMx Pyramidzxy AcctPay Apexy and Basex[/yellow]")
+
+<filter object at 0x0000028C7C5DB2B0>   Memory Registration/Title/Transaction
+
+Exiting Master Ledger 'Q' Nero Thanks for Banking with Us... 
+
+END
