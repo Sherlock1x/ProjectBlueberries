@@ -314,6 +314,11 @@ https://www.cuemath.com/geometry/tetrahedron/
 | MM>+ | HH> Matrix Photons Gold Bytes Particles, How to Produce Quantum Entanglement.
 <img width="787" height="66" alt="image" src="https://github.com/user-attachments/assets/6d4e69db-d550-41eb-9656-7f64df473642" />
 
+Photons either get through or not! Can only predict probilaties..
+"The Loss of determinism"
+After polarizer  | photon; x>
+
+<img width="782" height="127" alt="image" src="https://github.com/user-attachments/assets/2d0a3213-1195-49ac-a8de-30ecab25a39d" />
 
 
 
