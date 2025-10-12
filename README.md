@@ -297,7 +297,7 @@ Relativistic Jets
 
 When a black hole feeds on stars, gas or dust the meal produces jets of GOLD Particles and radiation blasting out from the black holes poles at near light speed. 
 They can extend for thousand of light years into space.
-Yield = 16000 oz x $2700.00/gold = PV $43.2 Mil x 1000 light years = FV $43.2 Bln.
+Yield = 16000 oz x $4000.00/gold = PV $64.0 Mil x 1000 light years = FV $64.0 Bln.
 5.87 Trillion Miles = 1 Light Year
 
 https://www.youtube.com/watch?v=W7ppd_RY-UE
