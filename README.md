@@ -324,6 +324,14 @@ After polarizer  | photon; x>
 
 <img width="782" height="127" alt="image" src="https://github.com/user-attachments/assets/2d0a3213-1195-49ac-a8de-30ecab25a39d" />
 
+quantum entanglement
+noun
+: a property of a set of subatomic particles whereby a quantum characteristic (such as spin or momentum) of one particle is directly and immediately correlated with the equivalent characteristic of the others regardless of separation in space
+In quantum entanglement, subatomic particles maintain a relationship—for instance, vibrating when the other vibrates—even when separated and even if they are at great distances from each other.—Sean Hamill
+Quantum entanglement occurs when two systems share a common quantum mechanical state. Such systems also share a common fate, even if they become physically quite separated. The results of a measurement performed on one will determine the results of future measurements on the second.—Claudia Tesche
+<img width="791" height="694" alt="image" src="https://github.com/user-attachments/assets/970e1f36-b343-4210-b78e-c0d78f37f94b" />
+
+
 
 
 
