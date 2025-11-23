@@ -331,7 +331,11 @@ In quantum entanglement, subatomic particles maintain a relationship—for insta
 Quantum entanglement occurs when two systems share a common quantum mechanical state. Such systems also share a common fate, even if they become physically quite separated. The results of a measurement performed on one will determine the results of future measurements on the second.—Claudia Tesche
 <img width="791" height="694" alt="image" src="https://github.com/user-attachments/assets/970e1f36-b343-4210-b78e-c0d78f37f94b" />
 
+https://www.youtube.com/watch?v=ustVvxJ8t-s   Quantum Photonic Action
 
+Dive into the fascinating world of photonic quantum computing in this introductory animation! We break down the challenges of building a universal quantum computer and reveal how using photons as qubits can help us overcome those obstacles. Discover how resource state generators, stitching devices, and waveguides come together like a weaver, creating a fabric of quantum information to perform complex computations. This incredible approach could pave the way for the next generation of quantum computers, making the seemingly impossible a reality. Harnessing the power of light, photonics makes quantum computing more scalable, while offering speed and stability. The use of photons as qubits could truly unlock quantum computing's full potential. Tune in as we unravel how photonics is paving the way to a more accessible quantum future.
+
+https://www.youtube.com/watch?v=v7iAqcFCTQQ     How Xanadu’s Photonic Quantum Computers Work
 
 
 
