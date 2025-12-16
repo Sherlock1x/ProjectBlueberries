@@ -337,6 +337,9 @@ Dive into the fascinating world of photonic quantum computing in this introducto
 
 https://www.youtube.com/watch?v=v7iAqcFCTQQ     How Xanadu’s Photonic Quantum Computers Work
 
+Gold_Monolith from Andromeda Galaxy Matrix Photons Gold Bytes Particles, that Produce Quantum Entanglement..."The Super Highway"...a Structure regarded as intractable indivisible and uniform.
+
+
 
 
 
