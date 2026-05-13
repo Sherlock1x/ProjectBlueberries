@@ -339,7 +339,9 @@ https://www.youtube.com/watch?v=v7iAqcFCTQQ     How Xanadu’s Photonic Quant
 
 Gold_Monolith from Andromeda Galaxy Matrix Photons Gold Bytes Particles, that Produce Quantum Entanglement..."The Super Highway"...a Structure regarded as intractable indivisible and uniform.
 
+Is Photonic Computing The Future Of AI Chip Technology?
 
+https://www.youtube.com/watch?v=Qe_k0XpGVOU
 
 
 
