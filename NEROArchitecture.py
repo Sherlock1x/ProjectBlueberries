@@ -217,45 +217,45 @@ def transactionLogs(floatCurrent, transactionOccured, floatAddedAmount, newAmoun
     LOG.write("\n\nOld AcctBalance: " + oldAmount)
     LOG.write("\nDepositTransaction Occured: " + transactionType + transactionAmount)
     LOG.write("\nWithdrawalTransaction Occured: " + transactionType + transactionAmount + transactionAmount)   #Updated 8-13-2025
-    LOG.write("\nNew AcctBalance: + 15085.47 oz/GLD Collateral = Basex New ACCTBalance $" + updatedAmount)
+    LOG.write("\nNew AcctBalance: + 15084.60 oz/GLD Collateral = Basex New ACCTBalance $" + updatedAmount)
     LOG.write("\nNew AcctBalance: "" Basex Accretion/Inheritance Value Transfers " + updatedAmount)
     LOG.write(noww.strftime('%c-%H-%M-%S.'))
-    LOG.write("[red] \nNew Cumalative AcctPayableAmountCurrentXPense, $1821.00 +15085.47oz/GLD Collateral = Pyramidzxy New ACCTBalance $$120683795 [/red]")
-    logger.info("[bold][red] \nNew Cumalative AcctPayable Amount Current XPense, $1821.00 balance + 15085.47oz/GLD Collateral = New Pyramidzxy ACCTBalance $120683795[/red]")
+    LOG.write("[red] \nNew Cumalative AcctPayableAmountCurrentXPense, $1821.00 +15084.60oz/GLD Collateral = Pyramidzxy New ACCTBalance $$120676764 [/red]")
+    logger.info("[bold][red] \nNew Cumalative AcctPayable Amount Current XPense, $1821.00 balance + 15084.60oz/GLD Collateral = New Pyramidzxy ACCTBalance $120676764[/red]")
 
     #Economic Measurements transactionLogs Q_Numbers
     
-h=(30170949/6000,"",'h Gold in ozs = Economic Measurement Apexy $VAlue Transfers Current Balance Collayeral YTD')
+h=(30169191/6000,"",'h Gold in ozs = Economic Measurement Apexy $VAlue Transfers Current Balance Collayeral YTD')
 print(...)
-b=(120683795/6000,"",'b Gold in ozs = Economic Measurement WellMx Pyramidzxy $$Value Transfers Current Balance Collateral YTD')
+b=(120676764/6000,"",'b Gold in ozs = Economic Measurement WellMx Pyramidzxy $$Value Transfers Current Balance Collateral YTD')
 print(...)
 c=(241401420/6400,"",'c Gold in ozs = Economic Measurement Pyramidzxy $$Value Future Value Transfers Current Balance Collateral YTD')
 print(...)
     #y=(84682042-1880,"", 'Economic Measurement Pyramidzxy $$Value Current Balance YTD')
 print(...)
-w=(1/3*90512846+90512846,"",'w Economic Measurement Value Transfers WellMx Pyramidxxy Chain Basex/Apexy Derivative')  #Measurement Pyramid Chain Base Derivative
+w=(1/3*90507573+90507573,"",'w Economic Measurement Value Transfers WellMx Pyramidxxy Chain Basex/Apexy Derivative')  #Measurement Pyramid Chain Base Derivative
 print(...)   
-oz=(90512846/6000.00,"",'oz Gold in ozs= WellMx Basex $Value Transfers Current Balance Collateral')   #Quantum Entanglement Particles Higgs Boson Field Electrons 
+oz=(90507573/6000.00,"",'oz Gold in ozs= WellMx Basex $Value Transfers Current Balance Collateral')   #Quantum Entanglement Particles Higgs Boson Field Electrons 
 print(...)
-wts=(90512846/6000.00*10,"",'wts Silver in ozs= Basex $Value Transfers Current Balance Collateral')  
+wts=(90507573/6000.00*10,"",'wts Silver in ozs= Basex $Value Transfers Current Balance Collateral')  
 print(...)                                                                     # +- measurement  | Gold in oz's = $ Value, Gold.com
                                                                     
 
 ww=(1/3*1000000+1000000*1000,"",'ww Parch 101 for the Dollar,"",Test Function Only')
 print(...)
-q=(1/3*90512846+90512846-90512846,"",'q Apexy WellMx Pyrimid Derivative')
+q=(1/3*90507573+90507573-90507573,"",'q Apexy WellMx Pyrimid Derivative')
 print(...)
     #wz=(1987631-1490723,'Delta Derivative Appex Pyramid')   #Delta Derivative Appex Pyramid
 print(...)
-wt=(90525533-1893-1574-1967-3746-1686-1821,"",'wt WellMx Basex Withdrawel Cumalative AcctPayable New current Balance$$ MTD')  #Cumalative AcctPayable Xpense current Balance$$
+wt=(90525533-1893-1574-1967-3746-1686-1821-1771-1681-1821,"",'wt WellMx Basex Withdrawel Cumalative AcctPayable New current Balance$$ MTD')  #Cumalative AcctPayable Xpense current Balance$$
 print(...)
-wtt=(0+3746+1686+1821,"",'wtt WellMx Cumalative AcctPayable Xpense$$ YTD')    #Cumalative AcctPayable Xpense $$ #"Chapter6-3py", Updating Ledger Log...
+wtt=(0+3746+1686+1821+1771+1681+1821,"",'wtt WellMx Cumalative AcctPayable Xpense$$ YTD')    #Cumalative AcctPayable Xpense $$ #"Chapter6-3py", Updating Ledger Log...
 print(...)
-fv=(120683795*2,"",'fv Economic Measurement Future $$Value Transfers Pyramidzxy Accretion and Inheritance')
+fv=(120676764*2,"",'fv Economic Measurement Future $$Value Transfers Pyramidzxy Accretion and Inheritance')
 print(...)
-d=(120683795+30170949,"","[bold green]d WellMx Pyramidzxy plus Apexy Deposit AcctRec[/green]")
+d=(120676764+30169191,"","[bold green]d WellMx Pyramidzxy plus Apexy Deposit AcctRec[/green]")
 print(...)
-j=(90512846+30170949,"","[bold yellow]j/q WellMx Pyramidzxy AcctPay Apexy and Basex[/yellow]")
+j=(90507573+30169191,"","[bold yellow]j/q WellMx Pyramidzxy AcctPay Apexy and Basex[/yellow]")
 
 #print(h,b,c,w,oz,ww,q,wt,wtt,wts,fv,d,j)
 print(d)
@@ -355,7 +355,7 @@ def is_prime(n):
     return True
 
 primes = filter(is_prime, nums)   #add list before filter
-print(primes,"","[bold][green] Memory Registration Key/Title/Transaction[/green]")  
+print(primes,"","[bold][green] Memory Registration Key/Title Polarizer/Transaction[/green]")  
 
 #for i in tqdm(range(0, 100), desc="Text Processing Matrix 10x10 Shape"):    #Progress Bar tqdm
     #sleep(0.1)
@@ -451,8 +451,8 @@ main()                         #main()
 
 #  Monolith a structure regarded as intractably indivisible and uniform:
 
-#Gold_Monolith from Andromeda Galaxy Matrix Photons Gold Bytes Particles, that Produce Quantum Entanglement...
-# "The Super Highway"...a Structure regarded as intractable indivisible and uniform.
+#Gold_Monolith from M31 Andromeda Galaxy Matrix Photons Gold Bytes Particles, that Produce Quantum Entanglement...
+# "The Super Highway"...a Data Center Structure regarded as intractable indivisible and uniform. Q_Nero Architecture
 
 # Q_Numbers Matrix The Invenite Well from Andromeda Galaxy M31...
 
