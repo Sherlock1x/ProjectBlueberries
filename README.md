@@ -343,6 +343,9 @@ Is Photonic Computing The Future Of AI Chip Technology?
 
 https://www.youtube.com/watch?v=Qe_k0XpGVOU
 
+ https://pydantic.dev/docs/ai/overview/  a Bank Support Agent AI, that can be used to create a virtual bank support agent that can handle customer inquiries, provide account information, and assit with basic banking tasks. The AI can be trained on a dataset of customer intractions and responses, and can be interfaced with a chatbot or voice assistant to rovide a seamless customer experience. The AI can also be interfaced with a database of account information to provide real-time account updates and transaction history.
+
+
 
 
 
