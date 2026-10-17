@@ -1,5 +1,5 @@
 
-# NERO Architecture Start "Q"Nero-Whale", "Patch 101 for the Dollar"
+# NERO Architecture Frontier Lab Start "Q"Nero-Whale", "Patch 101 for the Dollar"
 
 #https://github.com/JamariCJGoodridge/BasicBankApplication/blob/master/Python%20Saved%20Banking.py
 
@@ -7,11 +7,13 @@
 
 #https://docs.python.org/3/library/datetime.html?highlight=hours%20minutes%20seconds
 
+#  https://pydantic.dev/docs/ai/overview/  a Bank Support Agent AI, that can be used to create a virtual bank support agent that can handle customer inquiries, provide account information, and assit with basic banking tasks. The AI can be trained on a dataset of customer intractions and responses, and can be interfaced with a chatbot or voice assistant to rovide a seamless customer experience. The AI can also be interfaced with a database of account information to provide real-time account updates and transaction history.
+
 
 #START: Pyramid_Chain_Container1 WvvBank_Master_Ledger 20201205 ATMWvvBank/ATM
 #Embed Code "Kryptheum PyramidChainContainer" Beta Virtual Machine"
 
-#Accretion/Inheritance Adromeda Galaxy , M31, Matrix Invenit Well Value Transfers
+#Accretion/Inheritance/Polymorphism Adromeda Galaxy , M31, Matrix Invenit Well Value Transfers
 
 #Virtual Universe, Registered Byte Particle Element", a universe, registered byte particle element, 
 # that can never be directly detected, but whose existence does have measurable 
@@ -22,9 +24,10 @@
 #q_Nero_Architecture_open_source_AI Filter Polarization of Photons, Gold/Silver Collateral Multiplier.....
 
 #BankData.txt
-#mala.txt
+#kmala.txt
 #NEROLedger.log
 #TransactionLog.txt
+# FrontierLab.txt
 
 #import rich
 import math
@@ -75,7 +78,7 @@ logging.basicConfig(filename="Kamala.txt",
 
 #file_handler.setLevel(logging.ERROR)
 
-print("[bold][blue] World Vision Virtual Bank Acctnum 5111948 Master LedgerBytes.\n[/blue]")
+print("[bold][blue] Frontier Lab World Vision Virtual Bank Acctnum 5111948 Master LedgerBytes.\n[/blue]")
 print("When asked to make a Ledger/Transaction, you have several options to start.")
 print("clear -> reseting all Ledger/Data.")
 print("yes -> start of main loop.")
@@ -128,7 +131,7 @@ def transaction_option():
     elif change == "withdrawal" or change == "w":
         withdrawMoney()                                        #withdrawMoney()
     elif change == "quit" or change == "exit":
-        print("[bold][blue] Exiting Master Ledger 'Q' Nero Thanks for Banking with Us... [/blue]")
+        print("[bold][blue] Exiting Master Ledger 'Q' Nero Frontier Lab Thanks for Banking with Us... [/blue]")
         sys.exit()
     else:
         print("Invalid input")
@@ -217,45 +220,45 @@ def transactionLogs(floatCurrent, transactionOccured, floatAddedAmount, newAmoun
     LOG.write("\n\nOld AcctBalance: " + oldAmount)
     LOG.write("\nDepositTransaction Occured: " + transactionType + transactionAmount)
     LOG.write("\nWithdrawalTransaction Occured: " + transactionType + transactionAmount + transactionAmount)   #Updated 8-13-2025
-    LOG.write("\nNew AcctBalance: + 15083.90 oz/GLD Collateral = Basex New ACCTBalance $" + updatedAmount)
+    LOG.write("\nNew AcctBalance: + 15083.06oz/GLD Collateral = Basex New ACCTBalance $" + updatedAmount)
     LOG.write("\nNew AcctBalance: "" Basex Accretion/Inheritance Value Transfers " + updatedAmount)
     LOG.write(noww.strftime('%c-%H-%M-%S.'))
-    LOG.write("[red] \nNew Cumalative AcctPayableAmountCurrentXPense, $4095.00 +15083.90oz/GLD Collateral = Pyramidzxy New ACCTBalance $$120671304 [/red]")
-    logger.info("[bold][red] \nNew Cumalative AcctPayable Amount Current XPense, $4095.00 balance + 15083.90oz/GLD Collateral = New Pyramidzxy ACCTBalance $120671304[/red]")
+    LOG.write("[red] \nNew Cumalative AcctPayableAmountCurrentXPense, $1736.00 +15083.06oz/GLD Collateral = Pyramidzxy New ACCTBalance $$120634349 [/red]")
+    logger.info("[bold][red] \nNew Cumalative AcctPayable Amount Current XPense, $1736.00 balance + 15083.06oz/GLD Collateral = New Pyramidzxy ACCTBalance $120634349[/red]")
 
     #Economic Measurements transactionLogs Q_Numbers
     
-h=(30167826/6000,"",'h Gold in ozs = Economic Measurement Apexy $VAlue Transfers Current Balance Collayeral YTD')
+h=(30166707/6000,"",'h Gold in ozs = Economic Measurement Apexy $VAlue Transfers Current Balance Collayeral YTD')
 print(...)
-b=(120671304/6000,20111.9*300,"",'b Gold in ozs Barrels of oil in $ = Economic Measurement WellMx Pyramidzxy $$Value Transfers Current Balance Collateral YTD')
+b=(120666829/6000,20111.14*300,"",'b Gold in ozs Barrels of oil in $ = Economic Measurement WellMx Pyramidzxy $$Value Transfers Current Balance Collateral YTD')
 print(...)
 c=(241401420/6400,"",'c Gold in ozs = Economic Measurement Pyramidzxy $$Value Future Value Transfers Current Balance Collateral YTD')
 print(...)
     #y=(84682042-1880,"", 'Economic Measurement Pyramidzxy $$Value Current Balance YTD')
 print(...)
-w=(1/3*90503478+90503478,"",'w Economic Measurement Value Transfers WellMx Pyramidxxy Chain Basex/Apexy Derivative')  #Measurement Pyramid Chain Base Derivative
+w=(1/3*90500122+90500122,"",'w Economic Measurement Value Transfers WellMx Pyramidxxy Chain Basex/Apexy Derivative')  #Measurement Pyramid Chain Base Derivative
 print(...)   
-oz=(90503478/6000.00,15083.9*300,"",'oz Gold in ozs Barrels of Oil in $ = WellMx Basex $Value Transfers Current Balance Collateral')   #Quantum Entanglement Particles Higgs Boson Field Electrons 
+oz=(90500122/6000.00,15083.35*300,"",'oz Gold in ozs Barrels of Oil in $ = WellMx Basex $Value Transfers Current Balance Collateral')   #Quantum Entanglement Particles Higgs Boson Field Electrons 
 print(...)
-wts=(90503478/6000.00*10,"",'wts Silver in ozs= Basex $Value Transfers Current Balance Collateral')  
+wts=(90500122/6000.00*10,"",'wts Silver in ozs= Basex $Value Transfers Current Balance Collateral')  
 print(...)                                                                     # +- measurement  | Gold in oz's = $ Value, Gold.com
                                                                     
 
 ww=(1/3*1000000+1000000*1000,"",'ww Parch 101 for the Dollar,"",Test Function Only')
 print(...)
-q=(1/3*90503478+90503478-90503478,"",'q Apexy WellMx Pyrimid Derivative')
+q=(1/3*90500122+90500122-90500122,"",'q Apexy WellMx Pyrimid Derivative')
 print(...)
     #wz=(1987631-1490723,'Delta Derivative Appex Pyramid')   #Delta Derivative Appex Pyramid
 print(...)
-wt=(90525533-1893-1574-1967-3746-1686-1821-1771-1681-1821-4095,"",'wt WellMx Basex Withdrawel Cumalative AcctPayable New current Balance$$ MTD')  #Cumalative AcctPayable Xpense current Balance$$
+wt=(90525533-1893-1574-1967-3746-1686-1821-1771-1681-1821-4095-1631-1725,"",'wt WellMx Basex Withdrawel Cumalative AcctPayable New current Balance$$ MTD')  #Cumalative AcctPayable Xpense current Balance$$
 print(...)
-wtt=(0+3746+1686+1821+1771+1681+1821+4095,"",'wtt WellMx Cumalative AcctPayable Xpense$$ YTD')    #Cumalative AcctPayable Xpense $$ #"Chapter6-3py", Updating Ledger Log...
+wtt=(0+3746+1686+1821+1771+1681+1821+4095+1631+1725,"",'wtt WellMx Cumalative AcctPayable Xpense$$ YTD')    #Cumalative AcctPayable Xpense $$ #"Chapter6-3py", Updating Ledger Log...
 print(...)
-fv=(120676764*2,"",'fv Economic Measurement Future $$Value Transfers Pyramidzxy Accretion and Inheritance')
+fv=(120669129*2,"",'fv Economic Measurement Future $$Value Transfers Pyramidzxy Accretion and Inheritance')
 print(...)
-d=(120671304+30167826,"","[bold green]d WellMx Pyramidzxy plus Apexy Deposit AcctRec[/green]")
+d=(120666829+30166707,"","[bold green]d WellMx Pyramidzxy plus Apexy Deposit AcctRec[/green]")
 print(...)
-j=(90503478+30167826,"","[bold yellow]j/q WellMx Pyramidzxy AcctPay Apexy and Basex[/yellow]")
+j=(90500122+30166707,"","[bold yellow]j/q WellMx Pyramidzxy AcctPay Apexy and Basex[/yellow]")
 
 #print(h,b,c,w,oz,ww,q,wt,wtt,wts,fv,d,j)
 print(d)
@@ -284,6 +287,25 @@ print(h)   #Gold oz's Apexy YTD
 print()
 print(j)   #Pyramidzxy   MTD
 
+with open('FrontierLab.txt', 'a') as af:
+    af.write('\n90498386/6000=15083.06,1206634349/6000=20105.72 GLD0z Basex Pyramidzxy')
+    af.write('\n90501847-1725-1736=90498386  wt WellMx Basex Withdrawel Cumalative AcctPayable New current Balance$$ MTD')
+    af.write('\n0+3746+1686+1821+1771+1681+1821+4095+1631+1725+1736=21717  wtt WellMx Cumalative AcctPayable Xpense$$ YTD')
+    af.write('\n1/3*90498386+90498386-90498386=30135963 q  WellMx Apexy Pyrimidzxy Derivative')
+    af.write('\n90498386+30135963=120634349 "[bold yellow]j WellMx Pyramidzxy AcctPay Apexy and Basex[/yellow]')
+    af.write('\n120634349+30135963=150770312 "[bold green]d WellMx Pyramidzxy and Apexy Deposit AcctRec[/green]')
+    af.write('\n300*15083.06=4524918.0,300*20105.72=6031716.0 "[oil, Oz of Gold Times a $/bbl Total oz Gold]')
+    af.write('\n150770312*.05/12=628209.6 "(d,WellMx Pyramidzxy Interest per Month")') 
+
+with open('FrontierLab.txt', 'r+') as rf:
+    f_contents = rf.readlines()
+    print(f_contents)
+
+
+time = datetime.now()
+with open('FrontierLab.txt', 'a+') as f:
+    print(time,file=f)
+
 data = [[20251031120696088, 90522066, 30174022,20573,1574,24448], [20251130120698187, 90523640, 30174547,27431,1893,22874], [20251231120693465, 90520099, 30173366, 20573, 1967, 26415],
         [20260131120688471, 90516353, 30172117, 18103, 3746, 3746], [20260228120686223, 90514667, 30171555, 18103, 1686, 5431],[20260331,2,3,4,5,6]]
 #df6 = pl.DataFrame(data, schema=["DATEPyramidzxy", "Basex", "Apexy","Goldoz","MTDX","YTDX"], orient="row")
@@ -298,7 +320,7 @@ numbers = arr.array('i', [81000000,82000000,83000000,84000000,85000000,86000000,
 
 print('Q_Number Matrix Invinite Well from Andromeda Galaxy M31 Basex Pyramidzxy', numbers[-1])    # https://www.freecodecamp.org/news/python-slicing-how-to-slice-an-array/
 
-c = input("PLease enter your name:")
+#  c = input("PLease enter your name:")
     
 print('[bold][red] Future Value Wedge Collateral Andromeda Galaxy FailSafe [/red]')
 print(...)
@@ -322,7 +344,7 @@ print('[bold][yellow] Light from this galaxy took 2.65 million light years to re
     #https://www.youtube.com/watch?v=DKPRDCAOnXM
 
 
-balance = 4095.0    #Total Cumalative AcctPayableAmount Current Balance XPense YTD
+balance = 90498386.0    #Total Cumalative AcctPayableAmount Current Balance XPense MTD
 while True:
     try:
         num = float(input('XPense:'))
@@ -330,10 +352,10 @@ while True:
     except ValueError:
         print('Must be a valid quantity.')
 
-balance += num
+balance -= num
 print(f'Balance:(balance)')
 
-print(balance,"", "[bold red] Total Cumalative AcctPayableAmount Current Balance XPense")
+print(balance,"", "[bold red] Total Cumalative AcctPayableAmount Current Balance XPense MTD")
 
 logger.error("[bold red] \nNew Cumalative AcctAmount Current XPense, $20981.00 balance += num [/red]")  #Output  Current Xpense $$$
   
@@ -355,7 +377,19 @@ def is_prime(n):
     return True
 
 primes = filter(is_prime, nums)   #add list before filter
-print(primes,"","[bold][green] Memory Registration Key/Title Polarizer/Transaction[/green]")  
+
+with open('FrontierLab.txt', 'a')as f:
+
+   print(primes,"","[bold][green] Memory Address Registration Polymorphism Key/Title Polarizer/Transaction[/green]", file=f) 
+
+
+name = input("Please enter your name: ")
+
+with open('FrontierLab.txt', 'a')as f:  
+
+     print(f"Hello, {name} ",file=f) 
+     print("[bold][blue] Exiting Master Ledger 'Q' Nero Frontier Lab Thanks for Banking with Us... [/blue]",file=f)
+     
 
 #for i in tqdm(range(0, 100), desc="Text Processing Matrix 10x10 Shape"):    #Progress Bar tqdm
     #sleep(0.1)
@@ -451,8 +485,10 @@ main()                         #main()
 
 #  Monolith a structure regarded as intractably indivisible and uniform:
 
-#Gold_Monolith from M31 Andromeda Galaxy Matrix Photons Gold Bytes Particles, that Produce Quantum Entanglement...
-# "The Super Highway"...Hercules Data Center Structure regarded as intractable indivisible and uniform. Q_Nero Architecture
+# Gold_Monolith from M31 Andromeda Galaxy Matrix Photons Gold Bytes Particles, 
+# that Produce Quantum Entanglement...and Polymorphism
+# "The Super Highway"...Hercules Data Center Structure regarded as  intractable indivisible and uniform.
+#  Q_Nero Architecture Frontier Lab
 
 # Q_Numbers Matrix The Invenite Well from Andromeda Galaxy M31...
 
@@ -472,7 +508,10 @@ main()                         #main()
 # print(matrix, c, 'Container1/1000000 GoldBytesParticles', 'WorldVisionVirtualBank1@gmail.com')
 
 #Pyramidzxy Chain = Basex + Apexy
-#"V=1/3bh", where b is the area of the base and h the height from the basex to the apexy. 
+#"V=1/3bh", where b is the area of the base and h the height from the basex to the apexy.
+# 
+# The word "polymorphism" means "many forms", and in programming it refers to methods/functions/operators 
+# with the same name that can be executed on many objects or classes. 
 
 #DISCLAIMER: This e-mail and any file(s) transmitted with it, is intended for the exclusive use by the person(s) mentioned 
 #above as recipient(s). This e-mail may contain confidential information and/or information protected by intellectual property 
